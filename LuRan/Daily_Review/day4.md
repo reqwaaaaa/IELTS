@@ -64,12 +64,12 @@
 | blanket | 笼统的；一刀切的 | blanket warnings 常见搭配 |
 
 #### 有意思的句子用法
-  1、`This finding **should not have been** as surprising as **it was**.`  - 这一发现**本不该**如此令人意外
-  2、`, rather than the other way around` - ，而非相反
-  3、`a game of inches, not miles` - 循序渐进的过程，而非一蹴而就
-  4、`whether the classroom **feels engaging to** both students and teachers` - 课堂对师生是否有吸引力
-  5、`it’s demoralizing to look out at a classroom of kids scrolling on their phones.` - 望着一教室低着头刷手机的学生，教学会使人士气低沉
-  6、`promises less but delivers more` - 承诺更少，实效更多
+  - 1、`This finding **should not have been** as surprising as **it was**.`  - 这一发现**本不该**如此令人意外
+  - 2、`, rather than the other way around` - ，而非相反
+  - 3、`a game of inches, not miles` - 循序渐进的过程，而非一蹴而就
+  - 4、`whether the classroom **feels engaging to** both students and teachers` - 课堂对师生是否有吸引力
+  - 5、`it’s demoralizing to look out at a classroom of kids scrolling on their phones.` - 望着一教室低着头刷手机的学生，教学会使人士气低沉
+  - 6、`promises less but delivers more` - 承诺更少，实效更多
 
 #### 写作积累
 1、Education
