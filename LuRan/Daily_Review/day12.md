@@ -51,7 +51,7 @@
     - `Well, five years is not a short period. In my current plan, I will go to the Netherlands to pursue a Master's degree in CS. I want to specialize in the field of data mining. Obviously, The backdrop of the information age is the acquisition and processing of information. I hope to better understand the world through my knowledge. After graduation, I might work in related industries or continue my studies for a PhD. But that's a matter for later.`
 
 * 第八章：Part2真题
-  > 两节
+  > 四节
 
   一. 拿到题**1min记笔记**（从`You should say`出发）
   - Describe a person who encouraged and helped you to achieve a goal. You should say:
@@ -60,11 +60,21 @@
     - how this person helped you（**additional recourses and dictums**）
     - And explain why this encouragement helped you to achieve your goal（**lifelong passion and self-effacing**）
 
-  二. 记完笔记**2min讲述**（从之前记的`关键词`出发）
+  二. 记完笔记进行**2min讲述**（从之前记的`关键词`出发）
 
-  三. **分类练习与模版**
-  - 1、***人***：
-  - 2、***地点***：
+  三. **分类练习**（`根据自己经历所做Template`）
+  - 1、***人***：**这个人为什么值得讲（身份 + 特质 + 影响）**
+    - `To be honest, the first person that popped into my mind wasn’t a celebrity, but a friend I really cherish — Mr. Lu. He is an undergraduate majoring in artificial intelligence. He has a solid foundation of knowledge in his field and self-effacing. He is very kind-hearted and has a fair complexion and scholarly appearance. We have worked together on many course projects and examinations, which brought us even closer. In daily life, he is quite thrifty and maintains disciplined habits. He reads extensively and often collects information from social media, filtering out irrelevant content to share concise, insightful viewpoints. For example, whenever I was confused about choosing a major or planning my future, his suggestions always helped me clarify my thoughts. He has broadened my perspective by giving me constructive advice on life and studies, and he is always eager to help others, which makes him very respected by all our classmates. He truly is someone who made a real difference to me. In a nutshell, Mr. Lu is not only a close friend but also a role model who inspires me to work hard and grow.`
+  - 2、***地点***：**这个地方有什么氛围和功能，为什么它对你有意义（场景体验感）**
+    - `Let me tell you about a place that holds special meaning for me. I was born in Shanghai, one of China’s most prosperous and international cities, but I didn’t grow up in the famous downtown areas. Instead, I spent my childhood in a suburban town on the outskirts of Shanghai. Compared to the city center, that place was much calmer and more peaceful. The atmosphere was laid-back and there was a strong sense of community. Neighbors knew each other and cared about each other’s well-being. For example, I have fond memories of walking along quiet lanes and green parks near my home, which was a nice counterbalance to the bustling city life. Growing up with these two contrasting sides of the city gave me a broader perspective on life. The hectic city lifestyle taught me ambition and drive, while my peaceful hometown taught me to value family and simple pleasures. In short, growing up in the outskirts of Shanghai had a big influence on my worldview. It helped me realize the importance of balancing career ambition with a fulfilling personal life, and I feel lucky to have experienced both environments.`
+  - 3、***事件***：**为什么这个经历值得记住（讲有起点、有亮点、有收尾的故事）**
+    - `The object I'd like to describe is a public transport card cover that my grandmother embroidered for me. It’s made of soft fabric with beautiful floral embroidery patterns. Back then I used it for my Shanghai transportation card every day. Nowadays most people pay with their phones, so the old card is antiquated, but I still keep the cover because it means so much to me. I remember those palatable days when my grandmother and I would take the bus to go shopping at the market. I can almost picture our laughter on the bus during those carefree times. My grandmother spent many evenings carefully stitching every flower onto it, which makes it even more special. To me, this simple accessory is a cherished keepsake that embodies my family's love and the warm, happy childhood I had. Every time I ride the bus or even see a bus, I feel grateful for those memories. I truly cherish it and hope that I can continue to be as felicity in life as I felt with her love.`
+  - 4、***物品***：**它有什么功能、为什么重要、为什么特殊（实用价值讲功能、便利，情感价值讲回忆、依赖感）**
+    - `Now I’d like to describe an important personal experience. In March 2026, I took part in the interview for the Chinese postgraduate entrance exam. I had performed well in the written test, but I hadn’t prepared thoroughly for the interview. I missed some key information and didn’t practice enough communication skills. As a result, I unfortunately did not pass the interview. When I learned the news, I felt really disappointed and somewhat upset. It was very unpleasant to fail after working so hard. However, I didn’t let this setback defeat me. I picked myself up and reviewed my mistakes. For example, I realized I should have practiced more mock interviews and learned to present my ideas clearly. I sought feedback from my professors and set a new study plan to improve my weaknesses. It was a humbling but valuable lesson. This failure actually taught me a lot. It motivated me to work even harder and also made my attitude more level-headed. In the end, I believe this experience prepared me better for future challenges. Sure, without a doubt that failure is the mother of success.`
+  - 5、***活动***：**这件事给我带来了什么改变（注意把“习惯”和“收益”写清楚）**
+    - `As a computer science student, I naturally embrace new technology. For example, I often use a large language model to gather technical information and solve coding problems. Recently, I started contributing to an open-source software project on GitHub. I identified a bug in the project, wrote code to fix it, and even added a new feature to improve usability and feasbility. Throughout this project, I collaborated with teammates online. We discussed ideas, shared code, and reviewed each other’s work on GitHub. It was challenging at times, but solving these problems was extremely satisfying. This hands-on experience greatly improved my coding skills and overall productivity. I learned how to organize knowledge efficiently, manage version control, and communicate effectively with others. I also gained hands-on experience with tools like Git and a new programming library I hadn't used before. Seeing our contributions merged into the main codebase gave me a great sense of achievement and boosted my confidence as a developer. In short, contributing to open-source projects on GitHub has been one of the most rewarding activities, and I’m sure it will help my future career.`
+  - 6、***喜好***：**为什么它能持续吸引我（把“偏好”讲得有感受、有场景、有益处）**
+    - `Well, obviously one hobby I'm passionate about is fitness training. Over the years I have maintained a disciplined exercise routine, usually spending about an hour at the gym every day. I believe this has helped me keep a good figure and maintain a healthy lifestyle. Exercise is not just about physical strength; it also boosts my mood and focus. In fact, working out teaches me discipline and encourages healthy habits, because when I plan my workouts I also pay attention to my diet and sleep. For example, after a stressful day, exercising helps me clear my mind and feel completely rejuvenated. I also enjoy the sense of community at my gym, where friends encourage each other. All of this gives me a positive attitude toward life and motivates me to strive for self-improvement. Even when I'm busy, I try to squeeze in a short workout because it helps me recharge. In short, I firmly believe that maintaining an active lifestyle through sports or fitness is the best investment in my well-being, because it energizes me and relieves stress.`
 
 ### 作文
 > 真题训练
@@ -72,27 +82,40 @@
 * 第三章：小作文真题
   > 三节
 
-  一. 
-  - 1、
-  - 2、
-  - 3、
+  一. **表格类**
+  - 1、**练习时牢记三步走**
+  - 2、***简短的开头段*** + ***总揽全局属性的第二段*** + ***挑选、描述、比较数据的三四段***
+  - 3、对于数据比较多的表格：
+    - 1.**亮点数字**标出来，即每一类里面最大的数字（每一行或每一排）。如果表格是有年份的，找到变化最大的那一年（动态）
+    - 2.动态数据（有年份的）关注哪些属性有单调性，哪些没有，**标注箭头**
+    - 3.事先**分组**：数据占比高/绝对值高的分一组重点说，其他分另一组；属性特别奇特（数据不符合大体趋势/增长减少最快）单独写一句；普通属性（数据不高不低的）粗略描述提一嘴即可，**注意所有属性都得提到，只是对数据的描述需要分轻重**
+    - 4.对于数据特别多的情况，没有特点的数据就不用提了，需要关注**占比、绝对值、这两者的增速**，分组也是根据这三个指标来，增速最快最慢放一段，绝对值（可以自行设置比如1000为线）再分一段，可以补充说明虽然绝对值高但增速并不快等等
   
-  二. 
-  - 1、
-  - 2、
-  - 3、
+  二. **折线图类**
+  - 1、不需要在概述段提到具体的数字，数字是放到描述段去写的。只需要提到比`overall`, `highest`, `lowest`。（两点：公司A和B是减少的，但公司C是增加的，公司A在最开始是最大的产生者，而公司C最后是最大的生产者）
+  - 2、**不要每一条线都描述，考官想看的是比较**，也不需要提到所有年份。只需要提到第一年和最后一年，或者一些“特殊”年份（比如有明显的上升或下降的年份）
+  - 3、用**一般过去时**来描述过去年份的上升/下降，用`will`或者`is expected/predicted to`来描述未来的年份。**不要使用被动语态、完成时、进行时**
+  - 4、**需要关注**：
+    - 先升后降/反之亦然的**大趋势***
+    - 各自数值**排序**变不变
+    - 头尾年份和最高/低点的**具体数值**
+    - 变化幅度最大的那个属性和**时间段**
+    - 某个属性在哪个时间段数值都低于/高于一个具体值，后来突破了
+    - 两/三条折线的相交点的数值和时间
   
-  三. 
-  - 1、
-  - 2、
-  - 3、
+  三. **饼状图**
+  - 1、概括段去**总结图中的两个特征**；两个描述段**分别描述这两个特征的细节**
+  - 2、饼图的核心是**比例**，所以特征就是**占比最多最少**，**是否占比一样**，**占比排位的变化**
+  - 3、分类指标：占比一直上升/一直下降的分一类；对占比最多的数据详细写一下其变化历程（每个时间节点的占比以及变化特征）；在一个具体数值上下浮动的属性也可以说
+  - 4、如果某一个数据并没有具体标明，写一个近似的值是可以接受的，比如`over half of`, `less than a quarter`, `only a very small percentage of`
+  - 5、注意数据描述准确，`proportion`是单数，用`does/is`; `account fot xx% and xx% of total xxx respectively`; `is significantly standing, at xx% and xx%`; `merely x%, massive xx%`
 
 ### 真题练习
 > 从剑10开始按当天计划做对应模块真题各2篇
 * 剑10 Reading Test1 
   
 * 剑10 Listening Test1 
-  
+
 ---
 
 ## 今日收获总结
