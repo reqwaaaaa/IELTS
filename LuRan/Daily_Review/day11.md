@@ -94,7 +94,7 @@
   - `A small, steady improvement is often more realistic than a miracle solution.`
 
 ##### 高级形容词adj使用与替换
-  - **消极的情况**: `labyrinth/intricate` \ `indifferent/offish/phlegmatic` \ `blunt` \ `avaricious` \ `Impractical` \ `antiquated` \ `abhorrent` \ `restrictive` \ `overwrought`
+  - **消极的情况**: `labyrinth/intricate` \ `indifferent/offish/phlegmatic` \ `blunt` \ `avaricious` \ `Impractical` \ `antiquated` \ `abhorrent` \ `restrictive` \ `overwrought` \ `hustle and bustle/hectic`
   - **积极的情况**: `hospitable` \ `kind-hearted` \ `assiduous` \ `self-effacing` \ `self-disciplined` \ `unpretentious` \ `Reliable` \ `Rewarding` \ `Inspiring` \ `multicultural` \ `something I use on a daily basis` \ `once-in-a-lifetime` \ `it exceeded my expectations` \ `approachable`
 
 ##### 高级副词adv使用与替换

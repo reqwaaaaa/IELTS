@@ -149,7 +149,7 @@
   - 7、`Supporters of teams feel a sense of belonging to a community.`
   - 8、`This could help to promote international peace and understanding`
   - 9、`Competitors and fans can release energy and aggression.`
-  - 10 `We are persuaded to follow the latest trend.`
+  - 10、`We are persuaded to follow the latest trend.`
 
 ### 真题练习
 > 从剑10开始按当天计划做对应模块真题各2篇
