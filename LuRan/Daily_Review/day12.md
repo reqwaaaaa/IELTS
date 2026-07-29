@@ -123,6 +123,39 @@
    - **表格类**写作开头要简短，总结段两句结尾即可，中间两个描述段 
    - **折线图类**写作不要每一条线都描述，要比较着去写
    - **饼状图**开头段改写题目，概括段总结图表中的两个特征（属性本身），两个描述段各自描述一个数据特征的细节
- - 积累：
-   - `` = 
-   - `` =  
+
+```
+Writting Task2
+1 To what extent do you agree or disagree?
+I believe this opinion is valid to some extent, but an excessive focus on it may cause several problems.
+
+2 Do you think the advantages of this would outweigh the disadvantages? 
+Although this trend may create certain challenges, I believe the benefits are far more significant.
+
+3 Discuss both these views and give your own opinion.
+People hold different views regarding whether A or B is more beneficial. While both perspectives have their own merits, I tend to believe that B is more convincing. 
+
+4 How important do you think it is for children to play as well as learn in the primary school classroom? 
+The importance of （topic） has become a subject of considerable debate.
+```
+  - ***Introduction***
+    - Nowadays, with the rapid development of (**technology/globalisation/urbanisation/social changes**), increasing attention has been drawn to the issue of whether (**topic**).
+    - While some people argue that (**view A**), others believe that (**view B**).
+    - From my perspective, neither extreme approach is desirable. What matters most is achieving a balance between (**A**) and (**B**), while considering the long-term consequences for individuals and society.
+  - ***Body 1***
+    - On the one hand, it is understandable why some people support (**view A**).
+    - One primary reason is that (**A**) can contribute significantly to (**benefit**).
+    - This is mainly because (**explanation**), allowing individuals/society to (**positive result**).
+    - As a result, this approach may provide people with a stronger sense of **security/belonging/achievement**, which is essential for long-term development.
+    - A typical example can be seen in (**example**).
+    - However, focusing excessively on this aspect may overlook several potential drawbacks.
+  - ***Body 2***
+    - On the flip side, excessive emphasis on (**topic**) may lead to unintended consequences.
+    - The main concern is that (**problem**).
+    - This is because (**reason**), which may eventually result in (**negative consequence**).
+    - For instance, individuals who are exposed to (**situation**) may experience (**stress/burnout/inequality/lack of motivation**) rather than achieving the expected benefits.
+    - Therefore, instead of simply promoting or rejecting (**topic**), a more effective approach would be to adopt a balanced strategy.
+    - This means that governments/individuals/institutions should provide practical support and create an environment where (**positive condition**) can be achieved.
+  - ***Concolusion***
+    - In a nutshell, although (**topic**) undoubtedly has certain advantages, I believe that its effectiveness depends largely on how it is implemented.
+    - The key is not to completely embrace or abandon (**topic**), but to strike a balance between innovation and tradition, efficiency and well-being.
