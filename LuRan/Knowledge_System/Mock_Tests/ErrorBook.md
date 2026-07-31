@@ -1,10 +1,6 @@
 # Mock
 > 真题练习
 
-> 27+ ≈7
-> 30+ ≈7.5
-> 35+ ≈8
-
 | 模块        | 时间        | 题量            |
 | --------- | --------- | ------------- |
 | Listening | 30 min    | 40题           |
@@ -101,6 +97,34 @@ The importance of （topic） has become a subject of considerable debate.
     - In a nutshell, although (**topic**) undoubtedly has certain advantages, I believe that its effectiveness depends largely on how it is implemented.
     - The key is not to completely embrace or abandon (**topic**), but to strike a balance between innovation and tradition, efficiency and well-being.
 
+```
+Open your eyes
+Open up the clear blue sky
+I'll be there
+To hold you close in my mind
+Can you see the snow
+Melting down the sea below
+Celebrate a brand new day
+To Start again
+
+Silence
+A breath of my soundless wing
+Change the darkness
+Into a flawless ring
+No matter how you try to fly
+The ice will bring you down again
+Feel the night will die
+Only time will tell
+
+Open your heart
+To the place where dreams apart
+I'll be there
+To hold you close in my mind
+Can you see the snow
+Melting down the sea below
+Celebrate a brand new day
+To start again
+```
 ---
 ## Test 
 > 第二阶段练习计划

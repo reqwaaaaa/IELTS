@@ -159,3 +159,22 @@ The importance of （topic） has become a subject of considerable debate.
   - ***Concolusion***
     - In a nutshell, although (**topic**) undoubtedly has certain advantages, I believe that its effectiveness depends largely on how it is implemented.
     - The key is not to completely embrace or abandon (**topic**), but to strike a balance between innovation and tradition, efficiency and well-being.
+
+
+```
+Writting Task1 - 流程图
+不要解释原因 ｜ 不要加入自己知识 ｜ 不要评价
+
+* Introduction
+The diagram illustrates the process of how [product] is produced/manufactured from [raw material].
+The diagram illustrates the process of how [natural phenomenon] occurs/develops through a series of natural changes.
+
+* Overview
+Overall, the whole process consists of several stages, beginning with [initial stage] and ending with [final result]. The process can be broadly divided into several main phases, involving [stage 1], [stage 2] and [stage 3].
+
+* Body 1
+Initially, [first step] occurs. Following this, [second step] takes place, during which [change/action]. Subsequently, [third step] happens, resulting in [new condition].
+
+* Body 2
+During the later stages, [next process] is carried out, followed by [next process]. Once this stage has been completed, [final change] occurs. Eventually, [final product/result] is produced/formes.
+```
