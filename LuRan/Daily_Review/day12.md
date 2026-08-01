@@ -178,3 +178,65 @@ Initially, [first step] occurs. Following this, [second step] takes place, durin
 * Body 2
 During the later stages, [next process] is carried out, followed by [next process]. Once this stage has been completed, [final change] occurs. Eventually, [final product/result] is produced/formes.
 ```
+
+
+```
+Writting Task1 - 地图
+多用被动语态（was introduced） ｜ Overview不要写细节 ｜ edge = peripheral area ｜ undergo significant transformation/alteration/modification ｜ along the road ｜ in the austral region of the country
+
+* Introduction
+The two maps illustrate the changes in the layout of ______ between ______ and ______.
+
+* Overview
+① 有没有新增？
+Overall, the most noticeable changes are that several new facilities were introduced,
+② 有没有消失？
+while some original areas/features were removed.
+③ 有没有用途改变？
+In addition, the area experienced a transformation from a mainly ______ place into a more ______ one. [recreational/commercial]
+
+* Body 1
+Looking at the newly constructed areas, ______ was built/introduced in the former ______ area.
+
+* Body 2
+Regarding the areas that underwent major changes, ______ experienced significant transformation, with ______ being replaced by ______.
+```
+
+
+```
+Writting Task1 - others
+
+* Introduction
+The line graph illustrates changes in the number of participants for five activities at a social centre in Melbourne from 2000 to 2020.
+The pie chart illustrates the proportion of different categories of library users at a university, while the accompanying table presents their satisfaction levels regarding five aspects of library services.
+
+* Overview
+Overall, the most notable feature is that A remained the dominant category throughout the period, while B experienced the most significant increase/decrease.
+Overall, the figures demonstrated a downward tendency.
+Overall, the figures remained relatively stable despite some minor changes.
+Simultaneously, some categories experienced considerable fluctuations, while others showed relatively stable trends.
+
+* Body
+The figure remained stable at approximately 20 during the following five years.
+The figure experienced fluctuations throughout the period.
+The figure peaked at around 22,000 in 2016.
+The number hit the lowest point of only 5 in 2020.
+Adults aged 18-64 accounted for over half of all members（the largest proportion）, at 51%.
+This was followed by children, which represented 22%.
+Adult audio books constituted the smallest share, at only 2%.
+The number of film club members significantly exceeded other activities.
+A and B accounted for an identical proportion.
+The figure for A remained considerably higher than those of other categories throughout the period.
+The number witnessed a dramatic increase.
+The figure fell significantly, reaching the lowest point of X.
+The figure maintained a stable level of approximately X.
+The number witnessed several fluctuations before reaching X eventually.
+The difference between A and B narrowed/widened over the period.
+
+The figure stood at approximately 20.
+The number was recorded at around 20.
+The figure reached approximately 20.
+
+over the next five years
+in the subsequent period
+```

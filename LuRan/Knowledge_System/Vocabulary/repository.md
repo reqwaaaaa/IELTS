@@ -431,28 +431,28 @@
 - `stimulate` = 刺激
 - `simulate` = 模仿
 - `excel at doing` = 擅长；超长
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
+- `20% discount` = 8折
+- `vegetarian` = 素食者
+- `permanent` = `perpetual` = 永恒的
+- `marked a turnaround` = 标志着转机
+- `favour` = `put him in a very strong position.` = 有利于
+- `intact` = 完好无缺，未经触动的
+- `lade with` = 装满
+- `agitate` = `suggest` = 煽动，呼吁
+- `ally` = 同伴；伙伴
+- `indiscriminate` = 不加区分
+- `the control plots` = 对照区域
+- `on the brink` = 奔溃；在xxx边缘
+- `benchmark` = 基准
+- `It is an astonishingly crude and simple-minded way of thinking, and for that very reason increasingly popular.` = 这是一种极为粗浅、简单化的思维方式，也正因如此，它的影响力愈发广泛。
+- `be oblivious to` = `ignorant` = 无知的，无视
+- `作者提到亚里士多德，是为了反驳Bentham的观点` = 不只是Bentham的观点`may not be just pleasure and the absence of pain` 而不是 `is not just an abstract concept`，注意其主观表达
+- `unforgeable` = 无法伪造的
+- `self-evidently` = 不言而喻的
+- `conviction` = 犯罪；信念
+- `to date` = 迄今为止
+- `lucid` = 易于明白的；清晰的
+- `simultaneously` = meanwhile
 - `` = 
 - `` = 
 - `` = 
