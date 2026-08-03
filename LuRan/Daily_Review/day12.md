@@ -125,7 +125,7 @@
    - **饼状图**开头段改写题目，概括段总结图表中的两个特征（属性本身），两个描述段各自描述一个数据特征的细节
 
 ```
-Writting Task2
+Writting Task2 - 320词最优
 1 To what extent do you agree or disagree?
 I believe this opinion is valid to some extent, but an excessive focus on it may cause several problems.
 
@@ -138,18 +138,25 @@ People hold different views regarding whether A or B is more beneficial. While b
 4 How important do you think it is for children to play as well as learn in the primary school classroom? 
 The importance of （topic） has become a subject of considerable debate.
 ```
-  - ***Introduction***
+**注意**
+```
+1 recall keywords：注意题目中关键词，一定要逐步提到，同时考虑题干中关键词的实际属性和生活逻辑，比如“young adults”不单单是people，也不能理解为“teenagers”
+2 用This, Therefore, Consequently, 去拆解一个长句子
+3 用Furthermore, This means that..., At this point..., Financially speaking, 去衔接
+4 注意1&4两段别写细节，要笼统，同时用一些简单词汇体现“松弛感”
+```
+  - ***Introduction*** ：**不要展开太多观点**
     - Nowadays, with the rapid development of (**technology/globalisation/urbanisation/social changes**), increasing attention has been drawn to the issue of whether (**topic**).
     - While some people argue that (**view A**), others believe that (**view B**).
     - From my perspective, neither extreme approach is desirable. What matters most is achieving a balance between (**A**) and (**B**), while considering the long-term consequences for individuals and society.
-  - ***Body 1***
+  - ***Body 1*** ：**Concession，承认对方有合理性**
     - On the one hand, it is understandable why some people support (**view A**).
     - One primary reason is that (**A**) can contribute significantly to (**benefit**).
     - This is mainly because (**explanation**), allowing individuals/society to (**positive result**).
     - As a result, this approach may provide people with a stronger sense of **security/belonging/achievement**, which is essential for long-term development.
     - A typical example can be seen in (**example**).
     - However, focusing excessively on this aspect may overlook several potential drawbacks.
-  - ***Body 2***
+  - ***Body 2*** ：**Rebuttal，不只是说“但是有缺点”，而是指出前面观点的漏洞，表达自己真正的想法**
     - On the flip side, excessive emphasis on (**topic**) may lead to unintended consequences.
     - The main concern is that (**problem**).
     - This is because (**reason**), which may eventually result in (**negative consequence**).
