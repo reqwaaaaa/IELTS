@@ -1,3 +1,105 @@
+The real value lies in human-AI collaboration, not blind automation.
+
+It allows me to expand my horizons and delve into subjects that I'm passionate about. Moreover, it equips me with valuable skills that I believe will benefit my future endeavors.
+
+This failure actually taught me a lot. It motivated me to work even harder
+
+As a computer science student, I naturally embrace new technology...
+
+Exercise is not just about physical strength; it also boosts my mood and focus.
+
+Shanghai is a sprawling metropolis, with a blend of historic landmarks and modern skyscrapers.
+
+There are a range of potential distinctions here.
+
+A good work-life balance can raise job satisfaction and prevent burnout.
+
+Nevertheless, preferences vary depending on age and personality.
+
+I think a more interactive approach, such as virtual demonstrations or hands-on experiences, would make it much more attractive.
+
+However, I didn't let this setback defeat me. Instead, I carefully reflected on my mistakes, such as not practicing enough communication skills and not preparing for unexpected situations.
+
+It made me more mature and helped me develop a more realistic attitude toward future challenges.
+
+xxx cannot be solved by a magic bullet. They require sustained and coordinated action.
+
+Although overseas study and work placements may involve certain difficulties, the long-term benefits in terms of personal growth, employability and cultural awareness clearly outweigh the disadvantages.
+
+With the rapid development of technology and social changes, competition has become an increasingly common phenomenon in workplaces, schools and daily life.
+
+On the flip side, excessive emphasis on competitions may leads to some unintended consequences.
+
+Therefore, people should adopt a flexible approach and choose different methods according to specific situations in study, work and daily life.
+
+
+---
+
+Information → Data → Data Mining → Knowledge → Understanding the World
+
+My long-term goal is to pursue and eventually obtain a PhD in Computer Science, ideally specializing in data mining.
+I first became seriously interested in computer science when I started learning more about how computers process information.
+as I gained more experience, my interests gradually became more research-oriented.
+One experience that had a particularly strong influence on me was
+I could share code, discuss ideas and learn from how other developers approached technical problems.
+extract useful knowledge from large amounts of data
+That's also why I became particularly interested in
+As for how I plan to achieve this goal
+I can develop a better understanding of
+
+---
+
+failure → reflection → strategy adjustment → success
+
+Unfortunately, things didn't go as he had expected.
+Albeit deeply disappointed, he didn't let the setback defeat him. Instead, he took some time to reflect on what had gone wrong.
+He realized that simply putting in more hours wasn't enough, so he decided to change his approach.
+identify weaknesses
+adjust study methods
+practice consistently
+manage pressure
+I learned from his experience even though I was only an observer. His story taught me to be more resilient and to focus not only on working hard, but also on working in the right way.
+
+He told me that one failed exam didn't necessarily mean that I was on the wrong path. What mattered was understanding what I had learned from the experience and what I genuinely wanted to pursue in the long run.
+“Failure is not the opposite of success; it is part of the process.”
+
+---
+
+When someone gives you thoughtful feedback, it's better to take some time to understand it and give a meaningful response.
+
+Rapid urbanization has brought both opportunities and challenges.
+The goal is not to stop development, but to achieve more sustainable growth.
+A more effective system should combine punishment, rehabilitation, and prevention.
+Limit excessive real-estate development + expand green spaces + environmental subsidies.
+In the long run, future generations would also benefit because the city would become more sustainable.
+
+---
+
+On the surface, it looks like a children's story, but...
+Judy → insecure / inexperienced → Nick → encouragement + different ways of helping → friendship → mutual growth
+She was capable, but she lacked experience and confidence.
+He encouraged her and helped her look at problems from a different perspective.
+At the same time, their relationship is not one-sided. Judy also helps Nick become more confident in himself and gives him a reason to trust other people. So they gradually develop a genuine friendship and learn to support each other.
+I watched the movie because I was looking for something relaxing and entertaining, but I found that it had much more depth than I expected. What touched me most was the idea of genuine friendship.
+Although it is an animated movie and looks like something designed for children, I think it contains some meaningful lessons about friendship, confidence and mutual support.
+
+---
+
+I think growing vegetables is actually her way of expressing love. Instead of showing affection through expensive gifts, she chooses to spend her time and energy taking care of the family.
+
+Shanghai CBD → skyscraper → spiral-shaped → mixed-use → restaurant/gym → grandmother → sophisticated interior → personal memories → busy/crowded → noisy → lack privacy → prefer quiet home
+vertical life
+I prefer a quieter and more private living environment. Since it's located in a busy CBD, there would probably be a lot of people, traffic and commercial activity around the clock. I think living in such a fast-paced environment might become exhausting in the long run.
+
+I appreciate it as a place to visit, but I wouldn't necessarily choose it as a home.
+
+---
+
+I suspected that there was something wrong with the graphics driver, because the GPU was constantly under heavy load.
+It turned out that the driver wasn't compatible with the software environment I was using.
+Since I was under quite a lot of pressure because of my graduation project, I decided to ask one of my professors for help. Instead of simply telling me what to do, he asked me to describe exactly what had happened and guided me through the troubleshooting process step by step. He suggested that I check whether the GPU driver was compatible with the software environment I was using. After checking the versions and comparing them with the requirements, we eventually found that the driver was incompatible with part of my environment, which was causing the GPU to behave abnormally.
+
+---
 ## Part 1
 
 > 1  P1  Music
@@ -249,7 +351,6 @@ I usually use headphones when listening to music, watching online courses or stu
 I usually use wireless headphones because they are more convenient and easier to carry around. 
 For example, when I study, commute or exercise, headphones help me create a more focused environment.
 I wouldn't use them when talking with people or in situations where I need to pay attention to my surroundings, such as crossing roads.
-
 ```
 
 ---
