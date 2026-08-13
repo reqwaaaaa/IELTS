@@ -153,3 +153,31 @@ Judy → insecure / inexperienced → Nick → encouragement → different ways 
 ```
 important message → waiting / busy → uncertainty → didn't want to rush → follow-up → eventually reply → relief / satisfaction
 ```
+
+```
+Part3
+回答 → 基础原因 → 选择一个拓展方法（四种） → 简单例子 → 结果
+如果是“what”，可以直接从“分类”开始讲述
+
+① 人群对比：People
+young people → instant pleasure / short videos
+older people → traditional media / books
+urban residents → convenience / efficiency
+older generation → tradition / community
+
+② 正反观点：Pros & Cons
+On the positive side...
+On the negative side...
+
+③ 古今变化：Then vs Now
+In the past → Nowadays → because of technology / urbanization → consequence
+
+④ 现实举例：Example
+Shanghai
+university
+research lab
+GitHub
+graduation project
+fitness
+grandmother
+```

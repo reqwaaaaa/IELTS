@@ -124,6 +124,132 @@
    - **折线图类**写作不要每一条线都描述，要比较着去写
    - **饼状图**开头段改写题目，概括段总结图表中的两个特征（属性本身），两个描述段各自描述一个数据特征的细节
 
+---
+
+```
+承载着我无忧无虑的童年，以及和奶奶在一起的美好时光
+It brings back so many memories of my carefree childhood and the wonderful times I spent with my grandmother.
+```
+
+```
+激发了我的斗志
+It reignited my motivation and determination to become a better version of myself.
+```
+
+```
+宏伟，但让我想保持距离
+I couldn't help admiring the impressive city center, but at the same time, seeing how stressed and overwrought the people there were made me want to keep my distance from that kind of lifestyle.
+```
+
+```
+在外省读大学，所以珍惜和奶奶的时间
+Since I studied at a university in another province, I could only go back home once a year, which made me cherish every moment I spent with my grandmother.
+```
+
+```
+奶奶种菜、养鸡鸭
+My grandmother grows vegetables and raises chickens and ducks herself because she believes that home-grown food is healthier. But as for me, what matters most isn't really the food itself, but the love and concern behind it.
+```
+
+```
+我和朋友小时候互相开玩笑，本科重逢
+When we were kids, we used to joke around with each other and share comics and toys. But what I really want to talk about is how we reunited during our undergraduate years, which actually brought us even closer.
+```
+
+```
+教授听我倾诉并给我结构化建议
+He patiently listened to me talk about my frustrations and my plans for the future. He didn't just comfort me. He helped me think through my situation in a much more structured way. He gave me his views on the current world, the development of my field, and some realistic ideas about my future career.
+```
+
+```
+考研面试前失眠
+I was overwhelmed by the fear of failure, so I barely slept the night before the interview. In the end, I only got a few hours of sleep before forcing myself out of bed and heading to the interview venue.
+```
+
+```
+从短期得失转向长期规划
+Looking back, this experience taught me not to focus too much on short-term gains and losses, but to zoom out and look at the bigger picture.
+
+It also encouraged me to set a long-term goal and think in three-year cycles. For example, I hope to obtain a master's degree in computer science within the next three years, while gradually improving my ability to integrate information, handle complex projects, and stay calm under pressure.
+```
+
+```
+硬件故障：systematic diagnosis
+He helped me carry out a systematic diagnosis, starting from the hardware and software and then moving through the operating system and the program itself. Step by step, we narrowed down the cause and eventually found that a driver compatibility issue had caused the hardware malfunction.
+```
+
+```
+根据实验环境和硬件适配优化算法
+I then optimized the algorithm based on the experimental environment and hardware compatibility. By reducing the computational load, I was able to improve both the time and space complexity of the algorithm.
+
+More importantly, I learned not to panic when something goes wrong, but to stay calm and analyze the problem systematically. I also learned to make good use of tools such as LLMs and, more importantly, to ask for help when necessary.
+```
+
+```
+简单、系统的生活方式
+I tend to prefer a simple and structured lifestyle rather than constantly chasing new things.
+```
+
+```
+有纪念意义
+It's not particularly valuable in terms of money, but it has a lot of sentimental value to me.
+```
+
+```
+CS Data Mining PhD：长期目标
+In the information age, data and information have become fundamental ways of understanding the world, and I want to develop the ability to make sense of them.
+
+For me, the degree itself isn't the ultimate goal. What matters more is how I gradually develop my way of looking at the world through the process of learning and research.
+```
+
+```
+视频讲数据结构：让我茅塞顿开
+The vivid animations were very different from the rigid and abstract explanations or formula-based derivations I was used to. By engaging both my visual and auditory senses, the video made the concepts much easier to understand. It was almost like a light-bulb moment for me, and it encouraged me to explore the theories and their applications further.
+```
+
+```
+LLM 如何帮助学习和 GitHub
+For me personally, they can also help me verify my code and algorithms, which significantly improves my productivity and allows me to contribute more effectively to open-source projects on GitHub.
+```
+
+```
+信息不是越多越好
+Simply acquiring information is far from enough. We also need to build our own knowledge system to filter out incorrect, repetitive and useless information—in other words, the noise.
+```
+
+```
+导师的语言学习方法
+His talent for languages comes from having a systematic learning framework rather than simply relying on rote memorization.
+
+He is adept at incorporating what he learns into his daily life instead of simply taking information in. In other words, he believes in learning through output, not just input.
+
+That's probably one reason why people like being around him. He often shares interesting stories and useful knowledge with the people around him, including me. Naturally, that made me admire him and look up to him.
+```
+
+```
+我和朋友一起健身
+A good friend of mine and I often work out together. We teach each other different exercises, such as ab workouts, and exchange ideas about our diets during cutting phases.
+
+We also discuss how to structure our training at different stages when preparing for a competition.
+
+Seeing athletes with great physiques and genuine smiles on their faces really motivates us to push ourselves harder. It gives us the motivation to become a better version of ourselves.
+```
+
+```
+成功的商业人士：医学生 + CS + 医疗数据
+He isn't doing it simply for the money. More importantly, he wants to use his knowledge to understand the world and help people who may not have easy access to medical resources.
+
+He combined existing products in the market with his own observations and developed a medical data-analysis tool, which he released on the App Store for free.
+
+He actively collected feedback from users, fixed the weaknesses, added new features, and optimized the algorithms to gradually improve his product.
+
+What I admire most is that, despite being a medical student, he taught himself computer science and made a real effort to understand changing market needs.
+
+He managed to combine medical knowledge with computer applications, and he is also passionate about sharing his ideas and code with others.
+```
+
+---
+
 ```
 Writting Task2 - 320词最优
 1 To what extent do you agree or disagree?

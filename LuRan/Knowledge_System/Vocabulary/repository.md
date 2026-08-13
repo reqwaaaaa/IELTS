@@ -542,11 +542,11 @@
 - `postbox` = 邮箱
 - `banter` = 无恶意的玩笑
 - `Conformity` = 从众行为
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
+- `proactive` = 主动；积极的
+- `be distinctive to` = 和xxx不同
+- `beads` = 珠子
+- `8.30` = eight thirty
+- `highly profit-driven` = 高度利益驱使的
 - `` = 
 - `` = 
 - `` = 
