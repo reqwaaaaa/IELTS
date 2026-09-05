@@ -28,7 +28,231 @@
 
 ⑥ Takeaway
 最终真正说明了什么？
-````
+```
+
+**议论文完整思考历程：**
+```
+拿到 ISSUE / POINT
+│
+├── ① WHAT
+│   │
+│   ├── What happens?
+│   │
+│   ├── Positive
+│   │   ├── Efficiency / convenience
+│   │   ├── Opportunity / accessibility
+│   │   ├── Economic benefits
+│   │   ├── Learning / personal development
+│   │   ├── Employment / career development
+│   │   ├── Health / safety / security
+│   │   ├── Social connection / belonging
+│   │   ├── Equality / fairness
+│   │   ├── Freedom / autonomy
+│   │   ├── Innovation / creativity
+│   │   └── Motivation / confidence
+│   │
+│   └── Negative
+│       ├── Dependence / loss of autonomy
+│       ├── Stress / pressure / anxiety
+│       ├── Inequality / unequal access
+│       ├── Misinformation / poor decisions
+│       ├── Superficiality / lack of expertise
+│       ├── Competition / insecurity
+│       ├── Social isolation
+│       ├── Loss of traditional values
+│       ├── Environmental damage
+│       ├── Unintended consequences
+│       └── Long-term negative effects
+│
+├── ② HOW
+│   │
+│   ├── How does it work?
+│   │
+│   ├── Direct mechanism
+│   │   └── A → immediate effect → outcome
+│   │
+│   ├── Cost / benefit mechanism
+│   │   └── A → lower / higher cost → behavioural change → outcome
+│   │
+│   ├── Information mechanism
+│   │   └── information → knowledge → judgement → decision
+│   │
+│   ├── Motivation mechanism
+│   │   └── reward / feedback → motivation → effort → improvement
+│   │
+│   ├── Behaviour mechanism
+│   │   └── environment → behaviour → habit → long-term effect
+│   │
+│   ├── Social mechanism
+│   │   └── individual → interaction → group behaviour → social outcome
+│   │
+│   ├── Economic mechanism
+│   │   └── incentives / costs / opportunities → behaviour → outcome
+│   │
+│   ├── Institutional mechanism
+│   │   └── policy / rules → incentives / constraints → behaviour → outcome
+│   │
+│   └── Feedback loop
+│       └── outcome → feedback → behaviour → stronger outcome
+│
+├── ③ WHY
+│   │
+│   ├── Why does it happen?
+│   │
+│   ├── Context
+│   │   ├── Technological development
+│   │   ├── Economic conditions
+│   │   ├── Social change
+│   │   ├── Globalisation
+│   │   ├── Demographic change
+│   │   ├── Urbanisation
+│   │   ├── Education expansion
+│   │   ├── Competitive job market
+│   │   ├── Information explosion
+│   │   └── Changing cultural norms
+│   │
+│   ├── Condition
+│   │   ├── Resources
+│   │   ├── Preparation
+│   │   ├── Ability
+│   │   ├── Motivation
+│   │   ├── Implementation
+│   │   ├── Scale / intensity
+│   │   ├── Duration
+│   │   ├── Opportunity cost
+│   │   └── Short-term vs long-term
+│   │
+│   └── Example
+│       ├── Individual example
+│       ├── Generational example
+│       ├── School / workplace
+│       ├── Community
+│       ├── Government policy
+│       ├── Technology / Internet
+│       ├── COVID / public-health crisis
+│       └── Historical / real-world example
+│
+├── ④ WHO
+│   │
+│   ├── For whom?
+│   │
+│   ├── Age
+│   │   ├── Children
+│   │   ├── Young people
+│   │   ├── Middle-aged people
+│   │   └── Older people
+│   │
+│   ├── Class / economic status
+│   │   ├── High-income groups
+│   │   ├── Middle-income groups
+│   │   └── Low-income / disadvantaged groups
+│   │
+│   ├── Education
+│   │   ├── Highly educated
+│   │   ├── Average education
+│   │   └── Limited educational opportunities
+│   │
+│   ├── Occupation
+│   │   ├── Students
+│   │   ├── Professionals
+│   │   ├── Manual workers
+│   │   ├── Entrepreneurs
+│   │   └── Public-sector employees
+│   │
+│   ├── Life stage
+│   │   ├── Students
+│   │   ├── Recent graduates
+│   │   ├── People with families
+│   │   └── Retired people
+│   │
+│   ├── Personality / ability
+│   │   ├── Risk-takers vs cautious people
+│   │   ├── Independent vs dependent people
+│   │   ├── Critical thinkers vs passive users
+│   │   └── Different levels of self-discipline
+│   │
+│   └── Circumstances
+│       ├── Family responsibilities
+│       ├── Financial pressure
+│       ├── Access to resources
+│       ├── Social support
+│       └── Individual priorities
+│
+└── ⑤ SYNTHESIS
+    │
+    ├── Under what conditions?
+    │
+    ├── What ultimately determines the outcome?
+    │   ├── Method
+    │   ├── Motivation
+    │   ├── Context
+    │   ├── People
+    │   ├── Resources
+    │   ├── Implementation
+    │   └── Consequences
+    │
+    ├── Short-term vs long-term
+    │
+    ├── Individual vs society
+    │
+    ├── Benefits vs costs
+    │
+    ├── Intended vs unintended consequences
+    │
+    ├── General rule vs exceptions
+    │
+    ├── Concession
+    │   └── A can indeed...
+    │
+    ├── Condition
+    │   └── However, this depends on...
+    │
+    ├── Rebuttal
+    │   └── Therefore, the real issue is...
+    │
+    └── Balanced / nuanced judgement
+        └── A is neither inherently good nor bad;
+            its effect depends on...
+```
+
+**记叙文完整思考历程：**
+```
+用一段具体的记叙/描述，把一个主题“讲出来”，最后自然落到感受、评价、意义或结论。
+
+WHEN → WHERE → WHO → WHAT → PROBLEM → TURNING POINT → RESULT → FEELING
+
+每个故事不要只想“事件”，而要想 5 个镜头：
+1 背景
+2 做了什么，打算做什么
+3 发生什么问题
+4 即时反应和感受
+5 后来发生什么（解决方法、事后感受）
+
+学会“动作描写”：
+I was nervous. 只是感受，而不是动作
+I couldn't fall asleep. 才是动作
+这样写：I was so nervous that I kept checking the time and couldn't fall asleep.
+
+叙事层层递进：
+开头 At that time... / Initially
+推进 After that... / Subsequently
+转折 That's when things became more complicated. / However
+回忆细节 One thing that really stood out to me was...
+结尾 In retrospect... / In a nutshell
+
+利用语料组织故事：
+事件 I failed my postgraduate interview.
+↓
+具体细节 I had barely slept the night before because I was extremely nervous.
+↓
+情绪 I felt devastated afterwards.
+↓
+行动 After a few days, I started reflecting on what had gone wrong.
+↓
+语料 I realized that I needed to adjust my strategy rather than simply work harder.
+↓
+升华 Looking back, it became a turning point for me.
+```
 
 ---
 
