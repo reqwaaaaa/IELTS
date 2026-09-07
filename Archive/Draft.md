@@ -8,6 +8,129 @@
 
 ---
 
+**开场白**
+Well, I actually graduated from university this July, and I’ve just **completed my bachelor’s degree** in Computer Science.
+
+At the moment, I’m **applying for a master’s degree** in Computer Science in Hong Kong. I want to **get more systematic training** in software development and data mining, because I believe **we’re living in the age of data**.
+
+---
+
+**人物1**
+
+OTo be honest, the first person that popped into my mind wasn’t a celebrity, but my professor, who helped me a lot with my graduation project.
+
+I still remember that I was working on a relatively complicated algorithm for my project. It involved parallel processing, so it put a fairly heavy workload on my GPU. At first, everything seemed to be working normally, but after I ran the program several times, my computer started behaving strangely. The GPU became unstable, and sometimes the program would suddenly crash or stop responding.
+
+I was quite confused because I couldn't figure out what was actually causing the problem. I initially thought the algorithm was simply too computationally intensive, so I tried reducing the workload and changing some parameters. **However, the problem didn't completely disappear, and I gradually realized that simply making random adjustments wasn't going to solve it.**
+
+That's when I turned to my professor for help. Instead of immediately telling me what to do, he helped me **break the problem down into smaller and more manageable parts**. We first checked the hardware and the operating system, and then looked at the software environment and the algorithm itself. We gradually ruled out different possibilities and compared the results under different settings.
+
+Eventually, we found that the problem was related to driver compatibility, which had caused the GPU to behave abnormally. After identifying the root cause, my professor suggested that I shouldn't just try to avoid the problem, but should also take the limitations of my hardware into account when designing the algorithm.
+
+So I modified the algorithm accordingly and reduced the computational workload. I also improved the way some parts of the algorithm were processed, which made the program much more stable.
+
+What impressed me most was not simply that my professor helped me solve the problem. **More importantly, he showed me how to deal with a complicated problem in a systematic way.** Instead of panicking or randomly trying different solutions, he helped me identify the key variables, rule out unlikely causes, and gradually narrow down the possibilities.
+
+**That experience taught me that when I encounter a difficult problem, staying calm and taking a systematic approach is usually much more effective than simply working harder.** I also learned that sometimes, the solution isn't about completely overcoming a limitation, but about understanding the limitation and finding a better way to work within it.
+
+---
+
+**人物2**
+One person I find particularly interesting is a senior student I met in a university research lab.
+
+He was actually studying medicine, so his **academic background was quite different from mine**. What impressed me was that **he didn't limit himself to medicine**.
+
+He taught himself Computer Science because he wanted to **combine medical knowledge with technology and solve practical problems**.
+
+**Eventually, he developed a medical data analysis product and released it on the App Store for free**.
+
+What I found particularly fascinating was that he **didn't just build the product and stop there**. He **collected feedback from users, fixed problems, added new features and optimized the algorithms** based on what people actually needed.
+
+It made me **realize that technology itself isn't necessarily valuable unless it solves real problems**.
+
+He was also **willing to share his ideas and code with other people**, which made the whole project more collaborative.
+
+I think what made him successful **was not simply his technical ability**. He was able to **identify a real need, combine knowledge from different fields and turn an idea into something people could actually use**.
+
+Sometimes, this kind of combination can lead to results that a person working in only one field might not be able to achieve.
+
+As for me, the most impressive thing was **his ability to turn knowledge into something practical and useful**. His experience also **changed the way I think about Computer Science**. I **used to focus more on algorithms and technical skills**, but I **gradually realized that understanding users and real-world problems** is equally important.
+
+---
+
+**经历**
+
+One experience that had a significant impact on me was failing my postgraduate interview.
+
+At that time, I had spent a long time preparing for postgraduate study, and I had high expectations for the result. I believed that if I worked hard enough and prepared carefully, I would eventually get the outcome I wanted.
+
+I still remember the night before the interview. I was extremely nervous and kept thinking about what might happen if I failed. I couldn't sleep properly and kept checking the time. The next morning, I got up very early and went to the interview venue, even though I had only slept for a few hours.
+
+I tried my best during the interview, but unfortunately, I didn't get through. At first, I was really disappointed because I had put so much effort into it. For a while, I even started to question my own ability and wondered whether I had chosen the wrong path.
+
+After I had calmed down, though, I decided to **take a step back and look at the situation more objectively**. I gradually realized that working hard wasn't always enough. I had been too focused on the final result and had spent too much time worrying about whether I would succeed. More importantly, I hadn't thought carefully enough about whether my preparation strategy was actually the most effective one.
+
+That experience changed the way I looked at failure. **I stopped seeing failure as simply a sign that I wasn't good enough. Instead, I started to see it as feedback.** If something didn't work, I needed to find out why and adjust my strategy rather than simply work harder in the same way.
+
+So instead of giving up, I decided to start again. I reconsidered my situation, thought more carefully about what I really wanted, and started making a new plan. I also became more willing to listen to advice and consider different possibilities instead of sticking to my original plan.
+
+Looking back, it was definitely a painful experience, but it also became a turning point for me. **It taught me that failure doesn't necessarily mean that the destination is wrong; sometimes, it simply means that I need to change the way I get there.**
+
+Since then, I've gradually learned to focus less on short-term gains and losses and more on long-term development. **Rather than being trapped by one immediate result, I try to look at the bigger picture and keep moving forward.**
+
+---
+
+**物品**
+
+The object I'd like to describe is the homemade food prepared by my grandmother, especially the dumplings she makes during the Spring Festival, which is particularly meaningful to me.
+
+They may sound quite ordinary, but they remind me of some of my most carefree childhood memories. My grandmother has always been very hands-on. She grows vegetables herself and even raises chickens and ducks at home because she believes home-grown food is healthier and more natural. So when she prepares a meal for the family, many of the ingredients actually come from her own garden or from the animals she raises.
+
+I especially remember making dumplings with her during the Spring Festival. We would prepare the vegetables and meat, make the dough, mix the filling and then wrap the dumplings together. When I was younger, I wasn't particularly good at wrapping them, so mine often looked quite strange. **She would just laugh and patiently show me how to do it properly.**
+
+What I remember most is not really the taste of the dumplings, but the feeling of being together. The whole process was quite slow and simple. We would sit together, talk about ordinary things, and sometimes she would tell me little stories about my childhood. **There was nothing particularly exciting about those moments, but somehow they have become some of the most precious memories I have.**
+
+After I went to university in another province, I could only go home about once a year. As a result, I gradually realized how precious those ordinary moments were. **When you don't get to see someone very often, even a simple meal can carry a surprising amount of emotional value.**
+
+That's why my grandmother's homemade food has a special meaning for me. Whenever I eat something similar, I don't just think about the food itself. **I think about my grandmother, my childhood, and the sense of warmth and belonging that I associate with home.**
+
+So for me, it's really not about whether the food is expensive or sophisticated. **What matters most to me is not the food itself, but the memories and emotions attached to it.** It reminds me that sometimes the most ordinary experiences can become the most meaningful ones when they are connected with the people we love.
+
+---
+
+**地方**
+
+The city I know best is Shanghai, because I was born and grew up there.
+
+What I find particularly interesting about Shanghai is the contrast between the city center and the suburban areas. When I go to the city center, what strikes me most is the sheer density and pace of life. There are skyscrapers everywhere, busy roads, office buildings, shopping malls and all kinds of public facilities. Many buildings are mixed-use, so people can work, eat, exercise and shop without even leaving the same area.
+
+It's extremely convenient, but at the same time, **the whole environment can feel as if everything is built around efficiency.** People are constantly rushing from one place to another, and even during lunch breaks, you can see office workers eating quickly before going back to work. The city is full of opportunities, but I also get the impression that people have to sacrifice quite a lot of personal time in exchange for that efficiency.
+
+By contrast, the suburban area where I grew up has a completely different atmosphere. There are fewer skyscrapers and less traffic, and people seem to have more time for everyday life. **Instead of everything being organized around work and efficiency, life there feels more centered around family, food and the local community.**
+
+For example, my grandmother still grows vegetables and raises chickens and ducks at home. Neighbors know each other, people are more likely to stop and have a chat, and a family meal can easily become the main event of the day. Compared with the city center, there is less of a sense of urgency. **Life may be less efficient in some ways, but it also feels more personal and down-to-earth.**
+
+Growing up between these two environments gave me a broader perspective on what a good life actually means. The city center showed me the importance of ambition, efficiency and personal development, while the suburbs taught me to appreciate family, simple pleasures and a slower pace of life.
+
+**I gradually realized that I don't necessarily want to choose one side over the other. I want to keep the ambition and efficiency of city life, but I also want to preserve the sense of warmth and balance that I experienced in the suburbs.**
+
+That's probably why I tend to prefer a simple and structured lifestyle now. I still want to work hard, improve myself and pursue my goals, but I don't think success should come at the cost of everything else.
+
+**So, for me, Shanghai is more than just a modern city. It is a place where I experienced two very different ways of living, and that contrast has shaped the way I see life today.**
+
+---
+
+**万能结尾**
+- *It may sound like a relatively ordinary thing, but it actually has a lot of personal significance for me*.
+
+- *What matters most to me is not the thing itself, but the meaning and memories attached to it*.
+
+- *What impressed me most wasn't the experience itself, but the way it made me feel and what I learned from it*.
+
+- *It was a painful experience at the time, but in retrospect, it taught me a valuable lesson about reflection, resilience and long-term thinking*.
+
+---
+
 ## 一、通用思考框架
 
 ```text
