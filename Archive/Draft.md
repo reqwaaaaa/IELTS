@@ -17,7 +17,7 @@ At the moment, I’m **applying for a master’s degree** in Computer Science in
 
 **人物1**
 
-OTo be honest, the first person that popped into my mind wasn’t a celebrity, but my professor, who helped me a lot with my graduation project.
+To be honest, the first person that popped into my mind wasn’t a celebrity, but my professor, who helped me a lot with my graduation project.
 
 I still remember that I was working on a relatively complicated algorithm for my project. It involved parallel processing, so it put a fairly heavy workload on my GPU. At first, everything seemed to be working normally, but after I ran the program several times, my computer started behaving strangely. The GPU became unstable, and sometimes the program would suddenly crash or stop responding.
 
@@ -124,8 +124,6 @@ That's probably why I tend to prefer a simple and structured lifestyle now. I st
 - *It may sound like a relatively ordinary thing, but it actually has a lot of personal significance for me*.
 
 - *What matters most to me is not the thing itself, but the meaning and memories attached to it*.
-
-- *What impressed me most wasn't the experience itself, but the way it made me feel and what I learned from it*.
 
 - *It was a painful experience at the time, but in retrospect, it taught me a valuable lesson about reflection, resilience and long-term thinking*.
 
