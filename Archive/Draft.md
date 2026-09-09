@@ -36,6 +36,7 @@ What impressed me most was not simply that my professor helped me solve the prob
 ---
 
 **人物2**
+
 One person I find particularly interesting is a senior student I met in a university research lab.
 
 He was actually studying medicine, so his **academic background was quite different from mine**. What impressed me was that **he didn't limit himself to medicine**.
@@ -58,7 +59,7 @@ As for me, the most impressive thing was **his ability to turn knowledge into so
 
 ---
 
-**经历**
+**经历1**
 
 One experience that had a significant impact on me was failing my postgraduate interview.
 
@@ -77,6 +78,30 @@ So instead of giving up, I decided to start again. I reconsidered my situation, 
 Looking back, it was definitely a painful experience, but it also became a turning point for me. **It taught me that failure doesn't necessarily mean that the destination is wrong; sometimes, it simply means that I need to change the way I get there.**
 
 Since then, I've gradually learned to focus less on short-term gains and losses and more on long-term development. **Rather than being trapped by one immediate result, I try to look at the bigger picture and keep moving forward.**
+
+---
+
+**经历2**
+
+One experience that stands out to me, especially because it changed the way I think about working with other people, was contributing to an open-source project on GitHub when I was still at university. **It wasn't just a matter of writing some code and finishing a task by myself; I actually had to work with people I had never met before, understand an unfamiliar codebase, and solve a problem that I couldn't deal with alone.**
+
+I came across the project while I was learning more about software development and algorithms, and I decided to contribute because I thought it would be a good opportunity to gain some practical experience.
+
+At the beginning, I found the project quite difficult to understand. **The codebase was unfamiliar, and some of the libraries and functions were things I hadn't worked with before.** So instead of immediately changing the code, I first read the existing files and tried to understand how the different parts of the project were connected.
+
+After that, I noticed a problem in one of the functions. **The program wasn't producing the expected result under a particular situation, even though the code looked reasonable at first.** I checked my own changes several times and tried to trace the program step by step, but I still couldn't figure out where the problem was coming from.
+
+At first, I tried to make a few small changes myself, but that didn't really work. **I gradually realized that simply changing things randomly wasn't going to solve the problem, so I decided to discuss it with the other contributors.**
+
+We communicated online and shared our ideas about what might be causing the problem. One of them suggested looking at a part of the code that I hadn't paid much attention to, while I explained what I had found from testing the program. **By comparing our different perspectives, we gradually narrowed down the possible causes instead of checking everything blindly.**
+
+Then we went through the relevant part of the code together. I reproduced the problem several times, checked the input and output, and compared the behavior before and after each change. **Eventually, we found that the problem wasn't caused by the main algorithm itself, but by the way one of the functions handled a particular input.** After understanding the cause, I modified that part of the code and tested it again to make sure the original problem had actually been fixed.
+
+Before the change was added to the main codebase, I also discussed the solution with the other contributors and made some adjustments based on their feedback. **So the final solution wasn't simply something I came up with alone; it was the result of several rounds of discussion, testing and code review.**
+
+I remember feeling quite satisfied afterwards. **What made me happy wasn't just that I had fixed a technical problem, but that I had managed to contribute something useful to a project that I didn't fully understand at the beginning.** I also felt more confident about dealing with unfamiliar problems.
+
+More importantly, **the experience taught me that people with different backgrounds, skills and ways of thinking can actually complement each other.** Someone else may notice something that I overlook, while I may contribute an idea from a different perspective. **Sometimes, collaboration can lead to a much better result than working alone.**
 
 ---
 
@@ -377,301 +402,702 @@ I couldn't fall asleep. 才是动作
 
 ---
 
-# 二、Daily Reflection
+# UNIT 1｜分主题观点库
+
+## 1. AI & Information
+
+### AI 的积极作用
+
+**AI enables people to access information and knowledge more easily**, allowing them to learn independently without always relying on teachers, books, or people around them.
+
+人工智能让人们更容易获取信息和知识，使他们能够独立学习，而不必总是依赖老师、书籍或身边的人。
+
+With the **advancement of AI applications**, people can complete many tasks more efficiently and gain access to information that was previously difficult to obtain.
+
+随着 AI 应用的发展，人们可以更加高效地完成许多任务，并获取过去难以获得的信息。
+
+AI can **make learning more accessible** by allowing people to obtain information independently and explore subjects at their own pace.
+
+AI 可以让学习更加容易获取，使人们能够自主获取信息，并按照自己的节奏探索不同领域。
+
+### AI 的风险
+
+AI can produce **seemingly convincing answers** that may actually be inaccurate or impractical.
+
+AI 可以产生看似令人信服、但实际上可能不准确或不实用的答案。
+
+This may give users a **false sense of confidence**, as AI-generated answers can sound convincing even when they are inaccurate.
+
+这可能给用户一种虚假的自信，因为 AI 生成的答案即使不准确，也可能听起来非常可信。
+
+Once people become **overly reliant on AI**, they may become less willing to think independently or make decisions for themselves.
+
+一旦人们过度依赖 AI，他们可能越来越不愿意独立思考或自己做决定。
+
+**AI should be used as a tool to support human thinking rather than as a substitute for it.**
+
+AI 应该被用作辅助人类思考的工具，而不是取代人类思考。
+
+### 信息越多不一定越好
+
+**Having access to more information does not necessarily mean that people will make better decisions**, especially when they lack the ability to **evaluate its reliability**.
+
+拥有更多信息并不一定意味着人们能做出更好的决定，尤其是在他们缺乏判断信息可靠性的能力时。
+
+**Algorithm-driven platforms** may repeatedly expose users to biased or repetitive information, making it harder for them to form independent opinions.
+
+算法驱动的平台可能反复向用户展示有偏见或重复的信息，使他们更难形成独立观点。
 
 ---
 
-## 1. AI
+## 2. Education
 
-### 核心问题
+### 理论知识 vs 实践技能
 
-> AI 是帮助人类，还是让人变得依赖？信息越多，人越容易做出正确决定吗？
+**Education should not simply aim to broaden people's knowledge**, but should also help them develop the ability to **apply what they have learned in the real world**.
 
-### Questions
+教育不应该只是拓宽知识面，还应该帮助人们培养将所学知识应用到现实世界中的能力。
 
-1. **Does it help people become more capable and independent, or make them more dependent?**
+**Theoretical knowledge provides the foundation** for practical application, further research and independent learning.
 
-2. **Does having access to more information help people make better decisions?**
+理论知识为实践应用、进一步研究和自主学习提供基础。
 
-### Key Points
+Without a **solid theoretical foundation**, students may be able to perform certain tasks but struggle to understand why they work.
 
-* 工具和 **替代品** 有什么 **区别**？
-* **哪些人** 更容易依赖 AI？
-* AI 的问题来自 **技术本身，还是使用方式**？
-* **有没有情况下** AI 反而能促进学习？
-* **年轻人和老年人** 的情况是否不同？
+没有扎实的理论基础，学生可能能够完成某些任务，却难以理解为什么有效。
 
-### Vocabulary & Sentences
+While practical skills may help students **enter the job market**, theoretical knowledge can provide them with a foundation for **long-term learning and professional development**.
 
-> **AI enables people to access information and knowledge more easily**, allowing them to learn independently without always relying on teachers, books, or people around them.
+实践技能可能帮助学生进入就业市场，而理论知识能够为长期学习和职业发展提供基础。
 
-> With the **advancement of AI applications**, people can complete many tasks more efficiently and gain access to information that was previously difficult to obtain.
+### 就业竞争
 
-> AI can **make learning more accessible** by allowing people to obtain information independently and explore subjects at their own pace.
+As more university graduates enter an **increasingly competitive job market**, practical skills have become more important for **employability**.
 
-> AI can produce **seemingly convincing answers** that may actually be inaccurate or impractical.
+随着越来越多大学毕业生进入竞争日益激烈的就业市场，实践技能对于就业能力变得更加重要。
 
-> This may give users a **false sense of confidence**, as AI-generated answers can sound convincing even when they are inaccurate.
+Having extensive theoretical knowledge **does not necessarily mean** that students will be competitive in the job market.
 
-> Once people become **overly reliant on AI**, they may become less willing to think independently or make decisions for themselves.
+拥有广泛的理论知识并不一定意味着学生在就业市场上具有竞争力。
 
-> **Algorithm-driven platforms** may repeatedly expose users to biased or repetitive information, making it harder for them to form independent opinions.
+For students facing an increasingly competitive job market, **developing expertise in one particular field** may be more valuable than acquiring **superficial knowledge across many areas**.
 
-> Having access to more information **does not necessarily mean** that people will make better decisions, especially when they lack the ability to **evaluate its reliability**.
+对于面临竞争激烈就业市场的学生来说，在某一特定领域形成专业能力，可能比在很多领域掌握浅层知识更加有价值。
 
-> The real issue is not whether people use AI, but whether they use it **responsibly and critically**.
+### 实践学习
 
-> AI should be used **as a tool to support human thinking rather than as a substitute for it**.
+Practical learning should not be regarded as tedious, as it can give students opportunities to **solve real-world problems** and **create something meaningful**.
+
+实践学习不应该被认为是枯燥的，因为它可以让学生有机会解决现实问题并创造有意义的东西。
 
 ---
 
-# 三、Education
+## 3. Failure & Success
 
-### 核心问题
+### 失败
 
-> 大学应该更重视就业技能还是理论知识？学生应该学习与专业无关的东西吗？失败是否比成功更能促进人成长？
+Failure can be painful, but it often **forces people to reflect on their mistakes and reconsider their approach**.
 
-### Questions
+失败可能令人痛苦，但它往往会迫使人们反思错误并重新思考自己的方法。
 
-1. **Should universities focus more on practical skills or theoretical knowledge?**
+By **identifying their weaknesses and adjusting their strategies**, people can turn failure into an opportunity for **personal growth**.
 
-2. **Should university students study subjects unrelated to their majors?**
+通过发现自己的弱点并调整策略，人们可以把失败转化为个人成长的机会。
 
-3. **Can failure contribute more to personal growth than success?**
+If the setback is too severe, however, failure may **undermine people's confidence** and make them more reluctant to **take risks in the future**.
 
-### Key Points
+然而，如果挫折过于严重，失败可能削弱人们的信心，使他们未来更加不愿意承担风险。
 
-* **人群：** 当代大学生
-* **背景：** AI快速发展，信息获取快、简单，开源知识丰富，易于学习多元专业
-* **就业：** 人数多，人均受教育水平高，不易就业，懂的多相当于都不精通，有很多人不在意所谓的综合成长，他们喜欢深耕一个领域找到一个合适的工作
-* **失败：** 悲痛，反过来刺激人去反思，努力，但打击过大会让人畏手畏脚
-* **成功：** 进一步努力，有反馈正循环，但会形成路径依赖
+### 成功
 
-### Vocabulary & Sentences
+Success can provide **positive feedback**, which encourages people to continue making efforts.
 
-> Education should not simply aim to **broaden people's knowledge**, but should also help them develop the ability to **apply what they have learned in the real world**.
+成功能够提供积极反馈，从而鼓励人们继续努力。
 
-> **Theoretical knowledge provides the foundation** for practical application, further research and independent learning.
+Small achievements can create a **positive feedback loop**, making people more confident and motivated.
 
-> Without a **solid theoretical foundation**, students may be able to perform certain tasks but struggle to understand why they work.
+小的成就能够形成正向反馈循环，使人们更加自信和有动力。
 
-> While practical skills may help students **enter the job market**, theoretical knowledge can provide them with a foundation for **long-term learning and professional development**.
+However, repeated success may sometimes create **overconfidence or path dependence**.
 
-> As more university graduates enter an **increasingly competitive job market**, practical skills have become more important for **employability**.
-
-> Having extensive theoretical knowledge **does not necessarily mean** that students will be competitive in the job market.
-
-> Practical learning should not be regarded as tedious, as it can give students opportunities to **solve real-world problems** and **create something meaningful**.
-
-> For students facing an increasingly competitive job market, **developing expertise in one particular field** may be more valuable than acquiring **superficial knowledge across many areas**.
-
-> Failure can be painful, but it often **forces people to reflect on their mistakes and reconsider their approach**.
-
-> By **identifying their weaknesses and adjusting their strategies**, people can turn failure into an opportunity for **personal growth**.
-
-> If the setback is too severe, however, failure may **undermine people's confidence** and make them more reluctant to **take risks in the future**.
+然而，持续的成功有时可能导致过度自信或路径依赖。
 
 ---
 
-# 四、Work & Career
+## 4. Work & Career
 
-### 核心问题
+### 稳定工作
 
-> 年轻人应该选择稳定的工作还是自己喜欢的工作？努力是不是成功最重要的因素？年轻人是否应该承担更多风险？
+Stable jobs generally offer greater **job security** and a more **predictable lifestyle**.
 
-### Questions
+稳定的工作通常提供更高的工作保障和更加可预测的生活方式。
 
-1. **Should young people choose stable jobs or careers they are passionate about?**
+They may not provide rapid salary growth, but they can offer a better **work-life balance** and reduce people's fear of unemployment.
 
-2. **Is hard work the most important factor in achieving success?**
+它们可能无法带来快速的工资增长，但可以提供更好的工作与生活平衡，并减少人们对失业的担忧。
 
-3. **Should young people be encouraged to take more risks?**
+However, **excessive stability** may eventually lead to boredom and a lack of motivation for further development.
 
-### Key Points
+然而，过度的稳定最终可能导致无聊以及进一步发展的动力不足。
 
-#### 稳定工作的优势
+### 热爱工作
 
-> Stable jobs generally offer greater **job security** and a more **predictable lifestyle**.
+People tend to perform better when they are **genuinely interested in what they do**, because they are more willing to invest time and effort in improving themselves.
 
-> They may not provide rapid salary growth, but they can offer a better **work-life balance** and reduce people's fear of unemployment.
+当人们真正对自己的工作感兴趣时，他们往往表现得更好，因为他们更愿意投入时间和精力提升自己。
 
-#### 缺点
+Passion alone is **not enough to guarantee career success**, as opportunities, social support and market demand also matter.
 
-> However, **excessive stability** may eventually lead to boredom and a lack of motivation for further development.
+仅仅有热情并不足以保证职业成功，因为机会、社会支持和市场需求同样重要。
 
-#### 做喜欢的工作
+### 努力与成功
 
-> People tend to perform better when they are **genuinely interested in what they do**, because they are more willing to invest time and effort in improving themselves.
+Hard work is essential because most meaningful achievements require **sustained effort and perseverance**.
 
-#### 热情不够
+努力是必不可少的，因为大多数有意义的成就都需要持续的努力和坚持。
 
-> Passion alone is **not enough to guarantee career success**, as opportunities, social support and market demand also matter.
+**Hard work is necessary for success, but it is not always sufficient**, as people's opportunities and circumstances can differ considerably.
 
-#### 努力非常重要，但不够
+努力是成功所必需的，但并不总是充分条件，因为不同人的机会和环境可能存在很大差异。
 
-> Hard work is essential because most meaningful achievements require **sustained effort and perseverance**.
+### 年轻人与风险
 
-> Hard work is **necessary for success, but it is not always sufficient**, as people's opportunities and circumstances can differ considerably.
+Young people may be in a better position to take **calculated risks** because they generally have fewer family responsibilities and more time to recover from setbacks.
 
-#### 年轻人尝试错误
+年轻人可能更适合承担经过计算的风险，因为他们通常承担的家庭责任更少，也有更多时间从挫折中恢复。
 
-> Young people may be in a better position to take **calculated risks** because they generally have fewer family responsibilities and more time to recover from setbacks.
+Risk-taking should be encouraged when the **potential benefits justify the possible costs**.
 
-> Risk-taking should be encouraged when the **potential benefits justify the possible costs**.
-
----
-
-# 五、Personal Development
-
-### 核心问题
-
-> 人应该经常离开自己的舒适区吗？一个人应该多听取别人的建议吗？
-
-### Questions
-
-1. **Should people frequently step outside their comfort zones?**
-
-2. **Should people rely more on advice from others when making important decisions?**
-
-### Key Points
-
-#### 走出舒适区
-
-> Stepping outside one's **comfort zone** exposes people to unfamiliar situations, which can help them develop **practical skills** and become more confident in dealing with uncertainty.
-
-#### 当下时代背景利于这样做
-
-> Compared with the past, people today can **access knowledge, communicate with experts and obtain advice** much more easily through the Internet and modern technology.
-
-#### 但是频繁这样做并不好
-
-> Frequent challenges without **sufficient preparation** may result in repeated setbacks, leaving people little time to **reflect on and learn from their experiences**.
-
-#### 不同人不一样
-
-> Different people have different **backgrounds, abilities and risk preferences**, so advice that works for one person may not necessarily be suitable for another.
-
-#### 结论
-
-> The purpose of seeking advice should be to **broaden one's perspective and obtain more information**, rather than to let others make decisions on one's behalf.
+当潜在收益足以证明可能的成本是值得的时，应该鼓励承担风险。
 
 ---
 
-# 六、Human Behaviour
+## 5. Personal Development
 
-### 核心问题
+### 走出舒适区
 
-> 为什么人明明知道某件事不好，却仍然会继续做？为什么人喜欢和自己观点相同的人？为什么人喜欢展示自己的生活？
+Stepping outside one's **comfort zone** exposes people to unfamiliar situations, which can help them develop **practical skills** and become more confident in dealing with uncertainty.
 
-### Questions
+走出舒适区会让人接触陌生环境，从而帮助他们发展实践技能，并增强应对不确定性的信心。
 
-1. **Why do people continue doing things they know are bad for them?**
+Compared with the past, people today can **access knowledge, communicate with experts and obtain advice** much more easily through the Internet and modern technology.
 
-2. **Why do people prefer interacting with others who share their opinions?**
+与过去相比，如今人们可以通过互联网和现代技术更加容易地获取知识、与专家交流并获得建议。
 
-3. **Why do people like showing aspects of their lives to others?**
+Frequent challenges without **sufficient preparation** may result in repeated setbacks, leaving people little time to **reflect on and learn from their experiences**.
 
-### Key Points
+没有充分准备就频繁挑战自己，可能导致反复失败，使人没有足够时间反思并从经历中学习。
 
-#### 人们的做法
+### 听取建议
 
-> People may continue doing something despite its **apparent disadvantages** because they perceive certain **emotional or personal benefits** that outweigh the costs.
+Different people have different **backgrounds, abilities and risk preferences**, so advice that works for one person may not necessarily be suitable for another.
 
-#### 背景
+不同的人拥有不同的背景、能力和风险偏好，因此适合一个人的建议不一定适合另一个人。
 
-> Moreover, what appears harmful from the outside may not necessarily be harmful to everyone, as individuals have **different priorities and circumstances**.
+The purpose of seeking advice should be to **broaden one's perspective and obtain more information**, rather than to let others make decisions on one's behalf.
 
-#### 与熟悉的人一起交流
-
-> People naturally tend to interact with those who share **similar interests and opinions** because this gives them a sense of **familiarity and belonging**.
-
-#### 但是有坏处
-
-> However, excessive interaction within **like-minded groups** can create **echo chambers**, making people less willing to consider alternative perspectives.
-
-#### 为什么喜欢展示生活
-
-> People are **social animals**, so sharing their experiences can help them **establish and maintain relationships**.
-
-> Sharing personal experiences can also give people a sense of **recognition, belonging and emotional security**.
-
-> Some people, however, share their lives mainly to **present a positive image of themselves** and gain **social recognition**.
+寻求建议的目的应该是拓宽自己的视野并获得更多信息，而不是让别人替自己做决定。
 
 ---
 
-# 七、Consumerism & Lifestyle
+## 6. Human Behaviour
 
-### 核心问题
+### 为什么知道不好仍然继续？
 
-> 生活越来越方便，人真的因此更幸福了吗？更多选择意味着更多自由吗？
+People may continue doing something despite its **apparent disadvantages** because they perceive certain **emotional or personal benefits** that outweigh the costs.
 
-### Questions
+尽管某件事存在明显缺点，人们仍可能继续做，因为他们认为其中某些情感或个人收益超过了成本。
 
-1. **As life becomes more convenient, are people necessarily becoming happier?**
+Moreover, what appears harmful from the outside may not necessarily be harmful to everyone, as individuals have **different priorities and circumstances**.
 
-2. **Does having more choices necessarily mean having more freedom?**
+此外，从外部看来有害的事情并不一定对所有人都有害，因为不同的人拥有不同的优先级和现实条件。
 
-### Key Points
+### 为什么喜欢和自己观点相同的人？
 
-#### 背景
+People naturally tend to interact with those who share **similar interests and opinions** because this gives them a sense of **familiarity and belonging**.
 
-> Improved **infrastructure, healthcare and technology** have undoubtedly made everyday life more convenient and comfortable.
+人们自然倾向于与拥有相似兴趣和观点的人交流，因为这会带来熟悉感和归属感。
 
-#### 幸福不只是物质
+However, excessive interaction within **like-minded groups** can create **echo chambers**, making people less willing to consider alternative perspectives.
 
-> However, happiness is **not determined solely by material comfort or financial wealth**.
+然而，过度与志同道合的人交流可能形成“回音室”，使人们不愿考虑不同观点。
 
-#### 不同年龄群体不同
+### 为什么喜欢展示生活？
 
-> The impact of greater convenience can also vary **across generations**, depending on people's social circumstances and expectations.
+People are **social animals**, so sharing their experiences can help them **establish and maintain relationships**.
 
-#### 压力随之增大
+人类是社会性动物，因此分享经历可以帮助人们建立和维持关系。
 
-> At the same time, technological progress has **intensified competition** in education and employment, meaning that greater convenience does not necessarily translate into a more relaxed life.
+Sharing personal experiences can also give people a sense of **recognition, belonging and emotional security**.
 
-#### 选择不等于自由
+分享个人经历也能给人带来被认可、归属感和情感安全感。
 
-> Having more choices does not necessarily make people feel freer, as an **abundance of options** can also create **uncertainty and decision-making pressure**.
+Some people, however, share their lives mainly to **present a positive image of themselves** and gain **social recognition**.
 
-> Having more choices does not necessarily make people feel freer, as an **abundance of options** can also create **uncertainty and decision-making pressure**.
-
-> True freedom is not simply having more options, but having the ability to **evaluate those options** and choose the one that **best suits one's circumstances**.
+然而，有些人分享生活主要是为了展示积极的自我形象，并获得社会认可。
 
 ---
 
-# 八、Society
+## 7. Consumerism & Lifestyle
 
-### 核心问题
+### 便利 ≠ 幸福
 
-> 社会公平应该优先于个人自由吗？政府应该为个人的生活负责到什么程度？城市生活真的比农村生活好吗？
+Improved **infrastructure, healthcare and technology** have undoubtedly made everyday life more convenient and comfortable.
 
-### Questions
+更好的基础设施、医疗和技术无疑让日常生活更加方便和舒适。
 
-1. **Should social equality be prioritised over individual freedom?**
+However, happiness is **not determined solely by material comfort or financial wealth**.
 
-2. **To what extent should governments be responsible for people's lives?**
+然而，幸福并不单纯由物质舒适程度或经济财富决定。
 
-3. **Is urban life really better than rural life?**
+At the same time, technological progress has **intensified competition** in education and employment, meaning that greater convenience does not necessarily translate into a more relaxed life.
 
-### Key Points
+与此同时，技术进步加剧了教育和就业竞争，这意味着更大的便利并不一定转化为更加轻松的生活。
 
-#### Government 的基本职责
+### 更多选择 ≠ 更多自由
 
-> Government should provide a **basic safety net and fair conditions**, while individuals should remain responsible for their own choices and personal development.
+Having more choices does not necessarily make people feel freer, as an **abundance of options** can also create **uncertainty and decision-making pressure**.
 
-> Governments should provide a **basic social safety net** for people who are unable to support themselves because of unemployment, disability or other serious circumstances.
+拥有更多选择并不一定让人感到更加自由，因为过多的选择也可能造成不确定性和决策压力。
 
-> Governments should also ensure **equal opportunities** and establish rules that protect people from **exploitation and discrimination**.
+**True freedom is not simply having more options, but having the ability to evaluate those options and choose the one that best suits one's circumstances.**
 
-#### 政府不应过度干预
-
-> However, governments should not take responsibility for **every aspect of people's personal lives**.
-
-> **Excessive government intervention** may weaken **individual autonomy** and create **dependence on public support**.
-
-#### Urban vs Rural
-
-> Neither urban nor rural life is **inherently better**; the more suitable environment depends on people's **priorities, occupations and stages of life**.
+真正的自由并不只是拥有更多选择，而是有能力评估这些选择，并选择最适合自身情况的那个。
 
 ---
 
+## 8. Society & Government
+
+### 政府的基本职责
+
+Government should provide a **basic safety net and fair conditions**, while individuals should remain responsible for their own choices and personal development.
+
+政府应该提供基本的社会保障和公平条件，而个人仍然应该对自己的选择和个人发展负责。
+
+Governments should provide a **basic social safety net** for people who are unable to support themselves because of unemployment, disability or other serious circumstances.
+
+政府应该为因失业、残疾或其他严重情况而无法维持生活的人提供基本社会保障。
+
+Governments should also ensure **equal opportunities** and establish rules that protect people from **exploitation and discrimination**.
+
+政府还应该确保机会平等，并建立规则保护人们免受剥削和歧视。
+
+### 政府不应过度干预
+
+However, governments should not take responsibility for **every aspect of people's personal lives**.
+
+然而，政府不应该对个人生活的方方面面负责。
+
+**Excessive government intervention** may weaken **individual autonomy** and create **dependence on public support**.
+
+过度的政府干预可能削弱个人自主性，并造成对公共支持的依赖。
+
+### 城市 vs 农村
+
+Neither urban nor rural life is **inherently better**; the more suitable environment depends on people's **priorities, occupations and stages of life**.
+
+城市生活和农村生活本身并不存在绝对的优劣；更适合的环境取决于一个人的优先事项、职业和人生阶段。
+
+---
+
+# UNIT 2｜其他高频观点类句子
+
+## 1. 城市发展 / Housing / Public Transport
+
+**Governments should improve public transport, develop satellite towns, and invest in more affordable housing.**
+
+政府应该改善公共交通、发展卫星城，并投资更多可负担住房。
+
+This can help **reduce pressure on major cities** and make housing more accessible to ordinary residents.
+
+这可以缓解大城市的压力，并让普通居民更容易获得住房。
+
+Better public transport can **reduce dependence on private cars**, thereby easing congestion and lowering emissions.
+
+更好的公共交通可以减少人们对私家车的依赖，从而缓解交通拥堵并降低排放。
+
+Developing satellite towns can **distribute population and economic activity more evenly**.
+
+发展卫星城可以更加均衡地分散人口和经济活动。
+
+---
+
+## 2. Modernity & Tradition
+
+**The key is not to reject modernity, but to protect what still gives society a sense of continuity.**
+
+关键不是拒绝现代化，而是保护那些仍然给社会带来延续感的东西。
+
+Modernisation can improve **living standards, efficiency and access to technology**, but it may also weaken traditional communities and cultural practices.
+
+现代化可以提高生活水平、效率以及技术获取能力，但也可能削弱传统社区和文化习俗。
+
+**Tradition should not be preserved simply because it is old; it should be preserved when it continues to have cultural or social value.**
+
+传统不应该仅仅因为古老就被保存，而应该在它仍然具有文化或社会价值时得到保护。
+
+---
+
+## 3. Crime & Punishment
+
+**A more effective system should combine punishment, rehabilitation, and prevention.**
+
+更加有效的体系应该把惩罚、改造和预防结合起来。
+
+Punishment can **deter potential offenders** and protect society from serious crimes.
+
+惩罚可以威慑潜在犯罪者，并保护社会免受严重犯罪的危害。
+
+Rehabilitation can help offenders **reintegrate into society** and reduce the likelihood of reoffending.
+
+改造可以帮助犯罪者重新融入社会，并降低再次犯罪的可能性。
+
+Prevention is equally important because it addresses the **underlying causes of crime**, such as poverty, lack of education and social exclusion.
+
+预防同样重要，因为它能够解决犯罪背后的深层原因，例如贫困、教育缺失和社会排斥。
+
+---
+
+## 4. Climate Change & Environment
+
+**Climate change cannot be solved by a magic bullet; it requires sustained and coordinated action.**
+
+气候变化不可能靠一个“灵丹妙药”解决，而需要持续且协调一致的行动。
+
+Governments, businesses and individuals all have a role to play in **reducing carbon emissions**.
+
+政府、企业和个人都应该在减少碳排放方面发挥作用。
+
+Governments can introduce **stricter environmental regulations**, invest in renewable energy and improve public transport.
+
+政府可以出台更加严格的环境法规、投资可再生能源并改善公共交通。
+
+Businesses should adopt **more sustainable production methods** and reduce unnecessary waste.
+
+企业应该采用更加可持续的生产方式，并减少不必要的浪费。
+
+Individuals can contribute by **reducing excessive consumption**, using public transport and adopting more environmentally friendly lifestyles.
+
+个人可以通过减少过度消费、使用公共交通以及采取更加环保的生活方式来做出贡献。
+
+---
+
+## 5. Career Security & Work-Life Balance
+
+**A clearly defined career path can give people a strong sense of security.**
+
+清晰明确的职业道路能够给人强烈的安全感。
+
+It can help people **set realistic goals**, develop relevant skills and make better long-term plans.
+
+它能够帮助人们设定现实目标、培养相关技能并制定更好的长期规划。
+
+However, overly rigid career paths may **limit people's flexibility** when industries and technologies change rapidly.
+
+然而，当行业和技术快速变化时，过于僵化的职业道路可能限制人们的灵活性。
+
+**A good work-life balance can raise job satisfaction and prevent burnout.**
+
+良好的工作与生活平衡可以提高工作满意度并防止职业倦怠。
+
+People who have enough time to rest and maintain social relationships may be **more productive in the long run**.
+
+拥有足够休息时间并维持社会关系的人，从长期来看可能更加高效。
+
+**Long working hours do not necessarily lead to higher productivity**, especially when employees are exhausted.
+
+长时间工作并不一定带来更高的生产力，尤其是在员工已经疲惫不堪的情况下。
+
+---
+
+## 6. Studying Abroad & Culture
+
+**Studying in an unfamiliar culture can be challenging, and the language barrier can be a serious problem.**
+
+在陌生文化中学习可能很有挑战性，语言障碍也可能成为严重问题。
+
+Students may experience **culture shock**, homesickness and difficulties adapting to unfamiliar social norms.
+
+学生可能经历文化冲击、思乡以及适应陌生社会规范的困难。
+
+However, living in another culture can also help people **develop cultural awareness and become more open-minded**.
+
+然而，在另一种文化中生活也能帮助人们培养文化意识，并变得更加开放。
+
+---
+
+## 7. Educational Progress
+
+**Educational progress is usually incremental rather than dramatic.**
+
+教育进步通常是渐进式的，而不是戏剧性的。
+
+Meaningful educational reform often requires **long-term investment, teacher training and institutional changes**.
+
+有意义的教育改革通常需要长期投资、教师培训以及制度上的变化。
+
+**It is unrealistic to expect a single policy to transform the entire education system overnight.**
+
+期待一项政策在一夜之间改变整个教育体系是不现实的。
+
+---
+
+## 8. LLM & Learning
+
+**LLM outputs should be treated as a starting point rather than a final authority.**
+
+LLM 的输出应该被视为起点，而不是最终权威。
+
+Users should **verify important information independently**, especially when accuracy matters.
+
+用户应该独立验证重要信息，尤其是在准确性很重要的时候。
+
+AI is particularly useful for **generating ideas, explaining unfamiliar concepts and providing alternative perspectives**.
+
+AI 特别适合用于产生想法、解释陌生概念以及提供不同角度。
+
+However, users still need to **exercise their own judgment**.
+
+然而，用户仍然需要运用自己的判断能力。
+
+---
+
+# UNIT 3｜万能句子
+
+## 1. 表达复杂性
+
+**The issue is more complicated than it appears on the surface.**
+
+这个问题比表面上看起来更加复杂。
+
+**There is no simple answer to this question.**
+
+这个问题没有简单的答案。
+
+**It depends largely on people's circumstances and priorities.**
+
+这很大程度上取决于人们的实际情况和优先事项。
+
+---
+
+## 2. 平衡观点
+
+**Rather than choosing one extreme, I think a more balanced approach would be more effective.**
+
+与其选择一个极端，我认为更加平衡的方法会更有效。
+
+**A balanced approach is usually more practical than an extreme one.**
+
+平衡的方法通常比极端的方法更加实际。
+
+**It is not simply a matter of choosing between A and B.**
+
+这并不只是一个在 A 和 B 之间二选一的问题。
+
+---
+
+## 3. “不一定”结构
+
+**A does not necessarily translate into B.**
+
+A 并不一定会转化为 B。
+
+**A does not necessarily mean that B.**
+
+A 并不一定意味着 B。
+
+**Having more A does not necessarily lead to more B.**
+
+拥有更多 A 并不一定会带来更多 B。
+
+---
+
+## 4. “必要但不充分”
+
+**A is necessary, but it is not always sufficient.**
+
+A 是必要的，但并不总是充分的。
+
+**A alone is not enough to guarantee B.**
+
+仅仅 A 并不足以保证 B。
+
+**A is important, but other factors also need to be taken into account.**
+
+A 很重要，但其他因素也需要被考虑。
+
+---
+
+## 5. 让步
+
+**Although A may offer considerable benefits, it can also create unintended consequences.**
+
+尽管 A 可能带来相当大的好处，但它也可能产生意想不到的后果。
+
+**While A can be beneficial, it may also have certain drawbacks.**
+
+虽然 A 有益，但它也可能存在一些缺点。
+
+**That being said, ...**
+
+话虽如此……
+
+**However, this does not necessarily mean that...**
+
+然而，这并不一定意味着……
+
+**This is not to say that...**
+
+这并不是说……
+
+---
+
+## 6. 原因
+
+**One major reason is that...**
+
+一个重要原因是……
+
+**This is largely because...**
+
+这主要是因为……
+
+**This can be attributed to...**
+
+这可以归因于……
+
+**One major contributing factor is...**
+
+一个重要的促成因素是……
+
+---
+
+## 7. 结果
+
+**This can lead to...**
+
+这可能导致……
+
+**This may result in...**
+
+这可能造成……
+
+**This can have a significant impact on...**
+
+这可能对……产生重大影响。
+
+**This may ultimately result in...**
+
+这最终可能导致……
+
+**This, in turn, can...**
+
+这反过来又可能……
+
+---
+
+## 8. 条件
+
+**If properly managed, A can...**
+
+如果得到适当管理，A 可以……
+
+**Provided that..., A can...**
+
+只要……，A 就可以……
+
+**As long as..., there is no reason why...**
+
+只要……，就没有理由为什么……
+
+---
+
+## 9. 长期视角
+
+**In the long run, ...**
+
+从长期来看……
+
+**From a long-term perspective, ...**
+
+从长期角度来看……
+
+**Short-term benefits should not come at the expense of long-term development.**
+
+短期利益不应该以牺牲长期发展为代价。
+
+**A may produce immediate benefits, but B is likely to have a more lasting impact.**
+
+A 可能带来即时收益，但 B 可能产生更加持久的影响。
+
+---
+
+## 10. 个体差异
+
+**People have different priorities, circumstances and risk preferences.**
+
+人们拥有不同的优先事项、现实条件和风险偏好。
+
+**What works for one person may not necessarily work for another.**
+
+适合一个人的方法不一定适合另一个人。
+
+**The most appropriate approach depends largely on individual circumstances.**
+
+最合适的方法很大程度上取决于个人情况。
+
+---
+
+## 11. 政府
+
+**Governments should provide a basic safety net while allowing individuals to remain responsible for their own choices.**
+
+政府应该提供基本的社会保障，同时让个人继续对自己的选择负责。
+
+**Governments should create fair conditions and provide essential public services.**
+
+政府应该创造公平条件并提供必要的公共服务。
+
+**Excessive government intervention may weaken individual autonomy.**
+
+过度的政府干预可能削弱个人自主性。
+
+---
+
+## 12. Technology / AI
+
+**Technology itself is neither inherently good nor bad; its impact depends largely on how it is used.**
+
+技术本身并非天然地好或坏；它的影响很大程度上取决于它如何被使用。
+
+**Technology should support human decision-making rather than completely replace it.**
+
+技术应该辅助人类决策，而不是完全取代人类决策。
+
+**The key issue is not whether people use technology, but whether they use it responsibly and critically.**
+
+关键问题并不是人们是否使用技术，而是他们是否负责任且批判性地使用技术。
+
+---
+
+## 13. 结论
+
+**Ultimately, there is no one-size-fits-all solution.**
+
+归根结底，并不存在一种适用于所有情况的解决方案。
+
+**Ultimately, the most effective approach is likely to strike a balance between different interests.**
+
+归根结底，最有效的方法可能是在不同利益之间取得平衡。
+
+**The key is not simply to A, but to B.**
+
+关键并不只是 A，而是 B。
+
+**What matters most is not A itself, but B.**
+
+真正重要的并不是 A 本身，而是 B。
+
+**In the long run, the benefits are likely to outweigh the costs.**
+
+从长期来看，收益可能超过成本。

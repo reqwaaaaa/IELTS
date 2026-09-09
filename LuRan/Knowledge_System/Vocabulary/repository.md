@@ -680,21 +680,21 @@
 - `A be closely tied to B` = A与B密切联系
 - `flat-out` = 坦率；直白的
 - `innocuous` = 无伤大雅的
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
+- `1.30 pm` = one thirty pm
+- `on the 25th of December` = Dec. 25
+- `pianist` = 钢琴家
+- `50% discount ` = 注意别忘记 **%**
+- `short documentaries` = 短纪录片
+- `说全球占比6%，问澳大利亚占比6%` = 答案是NG
+- `clues` = evidence
+- `secure in the knowledge that` = 确信
+- `give all the credit to` = 全部归功于
+- `derelict` = abandoned = 废弃的
+- `, accompanyed with` = 伴随着
+- `was modified from sphere to square`
+- `used to doing sth is currently used to do` 
+- `during 2014` = `, throughout 2014`
+- `as people's circumstances and priorities differ`
 - `` = 
 - `` = 
 - `` = 
