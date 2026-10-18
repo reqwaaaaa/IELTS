@@ -695,85 +695,301 @@
 - `used to doing sth is currently used to do` 
 - `during 2014` = `, throughout 2014`
 - `as people's circumstances and priorities differ`
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
-- `` = 
+- `containment` = 控制；遏制
+- `that was previously difficult to obtain` = than ever before
+- `most people` = 中间千万不要加 “of”
+- `algorithm-driven platforms`
+- `may not be able to distinguish...`
+- `be misled by marketing claims` = 被市场营销误导了
+- `personalised` = 针对个人的
+- `personnel` = 员工
+- `stagger` = 蹒跚的
+- `Above all, perhaps,` = 最终要的是，或许xxx
+- `apathetic` = 冷漠的
+- `Intriguingly,` = 有趣的是
+- `comes down to xxx` = 归因于
+- `the six original bus stops`
+- `located to the west of xxx` = 坐落在xxx的西边
+- `be extended eastwards` = 朝着东面拓建
+- `on either side of xxx Road` = 在路的两边
+- `changes in the percentage of` = 注意 *the*，percentage可数
+- `the two categories followed contrasting trends`
+- `continued to follow their previous trends` = 继续按照他们原先的走势
+- `It then recovered slightly, reaching 37% in 2011`
+- `well` = 水井
+- `Last Whisper` = 最后的轻语
+- `A true master is an eternal student.` = 真正的大师永远都怀着一颗学徒的心
+- `Kindred` = Never one... without the other.
+- `Sylas` = The chains are broken.
+- `colonies` = 群体；群落
+- `counterparts` = 对应的人或物
+- `be spared` = 被免去
+- `in the flesh` = 亲自
+- `studiously` = `deliberately` = 刻意故意地
+- `publicity` = 公众的注意力
+- `It incentivizes xxx` = “它”促使
+- `atrophy` = 萎缩，衰弱
+- `, leaving sb susceptible to sth` = 使得sb易于遭受sth的影响
+- `bear` = 承载；印证
+- `optimal` = 最佳的
+- `descriptions` = 描述
+- `begs to differ` = 不同意
+- `negotiate` = 谈判
+- `midday` = 不要写成mid day
+- `symbolises` = 代表了 v
+- `prominently` = 突出；显著；重要的
+- `account` = 账户；认为；印象
+- `irrespective of` = 不论；不顾
+- `fixate` = 使痴迷；注视
+- `outdo` = 超越
+- `Not long after that, ` = 不久之后
+- `enterprising` = 有胆识的
+- `overlap` = 重叠
+- `voucher` = 票券
+- `deftly` = 熟练地
+- `even-handed` = 公平的
+- `But this one niggle aside, ` = 除去这个缺陷
+- `ephemeral` = 短暂的
+- `lopsided` = 悬殊的；不平衡的
+- `emulate` = 竞争；模仿；努力；赶上
+- `gorgeous` ！= `egregious`
+- `go astray` = 误入歧途
+- `cracking` = 优秀的；极好的
+- `impetuous` = 鲁莽的；冲动的
+- `didactic` = 爱说教的
+- `pivotal` = 重要的
+- `fertilisers` = 化肥
+- `A is one route out of the vicious cycle of B` = 方法A是走出恶性循环B的一种路线
+- `the proposed changes to somewhere from the present to the future.`
+- `respectively` = separately
+- `look at sth through rose-tinted glasses` = 通过有色眼镜看待sth
+- `Its impact varies depending on people's circumstances, resources and ability to adapt.`
+- `figures ranged from...` = 趋势中用fluctuate around
+- `the proportion of men in most age groups` = xxx在大部分组别中
+- `, before declining at a slower rate to .` = 后面比前面减少的慢
+- `is absolutely vital for`
+- `Under no circumstances should we stop pursuing a healthy work-life balance, which is a wonderful antidote to the stress and ennui that come from daily routines.`
+- `The benefits should not be considered in isolation from the potential drawbacks.` 
+- `determine` = 决定
+- `imperative` = 急迫的；祈使的
+- `What's essential` = 至关重要的一点是
+- `controversial` = 有争议的
+- `People often confuse correlation with causation.`
 
+**乱序题多的文章，先把有序的填空、判断题做完，再回头攻克段落匹配，减少来回翻文章的消耗（先易后难）**
+
+原文“不止是A，还有B也重要”，题目“A极其重要且引起xxx兴趣”，是NG（没有关系）
+
+**Although**是关键转折词，与“difference”联系
+
+“XXX的存在会导致坏处”，那么“没有XXX”就是好处，是解决一个现象的理由和方法
+
+要关注“But, xxx really xxx?”这样的**疑问句**，接下来肯定会有呼应
+
+range 范围；幅度；**差异**
+
+put that down as a definite = 必选（确定）
+
+**看清名字，已经写的了不要填了**
+
+中间有 **-** 的词，只算一个：`dry-land tortoises` 是two words
+
+搜取相关信息的方式：`search online archives, local government websites, digital newspaper databases and historical forums for relevant information`
+
+方便且便宜的娱乐方式：`convenient and inexpensive leisure activity`
+
+the way in which
+
+`escalating` = `increasing`
+
+`salutary` = `beneficial`
+
+a younger population may also place less immediate pressure on healthcare and elderly-care services, allowing more resources to be directed towards economic development and public infrastructure
+
+Talking to older family members, even about ordinary matters, can help them assuage stress and regain a clearer perspective.
+
+, but they do not automatically outweigh the disadvantages.
+
+what matters most is striking a balance between openness and confidentiality by evaluating the actual value of the information.
+
+Consequently, the practical value of the knowledge can be amplified through collaboration.
+
+In addition, sharing information can help people feel a stronger sense of connection to a community, as it satisfies their need for social interaction and recognition.
+
+people may still lack the ability to distinguish valuable information from repetitive, misleading or unreliable content.
+
+, people are exposed to a more informed era, which enable them gain easy access to information that can't be obtained previously.
+
+in this day and age, visibility is everything, so the algotithm-drived platforms always spoon-feed certain contents to the groups of people who may not able to distinguish valuable information from the inaccurate and repetitive ones.
+
+under the circumstance that ｜ Under such circumstances,
+
+, particularly when
+
+substantial = significant = particular
+
+employment prospects
+
+young people, particularly recent university graduates, can also gain valuable experience by taking calculated risks in their personal lives, which can ultimately help them develop practical skills and become more independent.
+
+The pie chart illustrates the, while the table shows
+
+, making it the least common destination/ share
+
+consitituted similar/ identical percentages
+
+The diagram above portrays the process of how
+
+Overall, the whole process consists of several stages, beginning with and ending with . It can be divided into two main phases:
+
+The line chart above illustrates the changes of
+
+was generally the least common
+
+Regarding the remaining two
+
+, which was almost twice the growth recorded for xxx
+
+xxx followed a rise-and-fall pattern
+
+, representing a more than twofold increase
+
+**如果文章尾部出现文中出现的例子，那么那个例子的描述就是全文主旨**
+
+xxx, albeit challenging, brings considerable benefits to XXX.
+
+It fell sharply to 20,（after which）it fluctuated slightly.
+
+While the totals for both countries were similar, there were big differences in the fuel sources used.
+
+Many companies are racing to generate a viral moment（争相制造网络热点） online
+
+In this day and age, visibility is everything（曝光度就是一切）.The whole market is essentially just an attention game（注意力的游戏）.
+
+jump on the bandwagon
+
+traffic is so lucrative
+
+fundamental
+
+flattened out at
+
+exceeded / surpassed
+
+fell below / lagged behind
+
+in the centre of
+
+demolished / constructed
+
+considerably / significantly / substantially
+slightly / marginally / modestly
+commonly / typically / generally
+
+, which measure approximately 12–15 cm.
+
+pie chart分组：找占比最大的当分组目标（4个A占比最多分一起，另外的B占比最多分一起）
+Turning to xxx, the pattern is almost the opposite. 
+
+figure ranges from 7% to 19%
+
+, at 19%, considerably higher than the corresponding figures for the other XXX.
+
+account for / constitute / make up 
+
+in 后面可能跟的是**月份**
+
+No. 后面不一定只有数字，可能是“AC911”
+
+Overall, China recorded the highest figures for both electricity production and consumption.
+
+China had the highest level of electricity production, at 5,398 billion kWh, which was around 1,300 billion higher than the corresponding figure for the United States
+
+A similar pattern can be seen in
+
+我们应该干什么 = 建议comment
+
+although apart from however so you need
+
+**注意划出 what why（as、because、since、thanks to） who how（by、through、in） 等等**
+
+**注意时间 this year/used to/so far/previously/plan/intend to 几个人同意，disagree/agree，both，neither**
+
+**注意程度 最多最少 major/main/most of**
+
+**柱状图先分高频、低频以分类，类中可以写动态变化（年份之间比较）**
+
+rise-and-fall pattern
+
+experienced a consistent downward trend, decreasing from
+
+towel
+video
+safety and ethical concerns
+Overdependence on
+邮编是由大写字母+数字组成，如 **DW307YZ**
+significant effort 不一定是正面效果，反面效果也是“巨大影响”
+fauna and flora 动植物
+本意是保护生态系统，题干说有利于动物，那么是对的，因为保护生态系统也是有利于动物“, including xxx”
+
+Humans are social beings, but more social interaction does not necessarily mean better social relationships.
+
+Because arduous and repetitive work can leave people feeling overwhelmed, they may want to express their own ideas and sense of control in other parts of their lives.
+
+by 2000 = 到2000年为止
+
+intensity = 程度
+
+xxx方面/因素，找文本中这个东西有没有“被归因于”、“被其他东西影响”
+
+注意不要张冠李戴，填空题一定要找近义词，匹配题一定要找到对应的“复数词”，比如“化学物品”，“个人例子”
+
+, at 6% = , reaching 6%
+
+, following by
+
+, before increasing
+
+, making it 
+
+challenging
+
+legibility = 清晰度
+
+respiratory
+
+vitamins
+
+数字（10）October November September December April January February
+
+Saturday
+
+the distribution was relatively balanced
+
+, before declining further to
+
+By contrast, the corresponding figures for
+
+across the same age groups.  over the same period from to
+
+chefs
+
+journalist
+
+xxx of xxx
+
+umpire 裁判
+
+In response, 作为回应
+
+Because arduous and repetitive work can leave people feeling overwhelmed, they may want to express their own ideas and sense of control in other parts of their lives.
+
+, more and more people are becoming attracted to minimalist styles.
+They don't want to spend the limited free time they have left tidying up clutter or cleaning their homes.
+
+When people are already under a lot of pressure, unnecessary waiting can make them even more impatient.
+
+A book can represent the giver's position, opinions and worldview.
+
+Keep on grinding. 锲而不舍。
+Stay persistent.  久久为功。
