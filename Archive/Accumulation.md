@@ -1,0 +1,25 @@
+## **日常**
+
+- **Part of the reason is that ...** 部分原因在于……
+- **I think it has a lot to do with ...** 我觉得这和……有很大关系。
+- **From my perspective, ...** 在我看来，……
+- **under the circumstance that ...** 在……的情况下
+- **particularly when ...** 尤其是在……的时候
+- **Small achievements can create a positive feedback loop, making people more confident and motivated.** 小的成就可以形成正向反馈循环，让人们更加自信、更有动力。
+- **Neither A nor B is inherently better; its impact varies depending on people's priorities, socioeconomic backgrounds and occupations.** A 和 B 本身并没有绝对的优劣之分，其影响取决于人们的优先事项、社会经济背景和职业。
+- **X alone is not enough to guarantee Y.** 仅凭 X 并不足以保证 Y。
+- **Not specifically, ...** 不完全是，…… / 没有特别……（视语境而定）
+- **They reminded me that ...** 他们提醒了我，……
+- **I'm more inclined to ...** 我更倾向于……
+- **That being said, ...** 话虽如此，……
+- **It really comes down to ...** 归根结底，关键在于……
+- **In a nutshell, ...** 简而言之，……
+- **Yeah, I'd say XXX is generally a good thing.** 是的，我认为 XXX 总体来说是件好事。
+- **It would go a long way towards ...** 这将对……大有帮助。
+- **It highly depends on the context, as there is no one-size-fits-all answer.** 这在很大程度上取决于具体情境，因为没有一种答案适用于所有情况。
+- **XXX is so lucrative.** XXX 非常有利可图。
+- **A classic case in point is XXX.** 一个典型的例子就是 XXX。
+- **Let me give you a simple example.** 让我举一个简单的例子。
+- **I don't think it's an either-or situation.** 我认为这并不是一道非此即彼的选择题。
+- **I feel like it would sound pretty weird if I said XXX.** 我觉得如果我说 XXX，听起来会相当奇怪。
+- 
